@@ -80,6 +80,7 @@ def readXMLAndBuildData():
     return dataBuilded
 
 def agregar_hoja_nueva_excel(ruta_excel, dic):
+    coutn = 0
     libro = load_workbook(ruta_excel)
     hoja_base = libro[libro.sheetnames[0]]  # Primera hoja como plantilla
 
@@ -132,12 +133,12 @@ def agregar_hoja_nueva_excel(ruta_excel, dic):
         nueva_hoja["I52"] = "RECTOR"
 
         print(f"Hoja '{name_file}' creada con fecha, hoja y firmas en posiciones exactas.")
-
+        coutn += 1
+    print(f"Total de hojas agregadas: {coutn}")
     libro.save(ruta_excel)
 
     
 ruta = "/Users/juanantoniotorres/Documents/ProyectoSalvandoVidaJacqueline/DocuemntosTitulos/Libro de Control de Folios de Titulos y Grados Electrónicos 2025.xlsx"
 registro_alumnos = readXMLAndBuildData()
 dic = registro_alumnos
-print(dic)
 agregar_hoja_nueva_excel(ruta, dic)
