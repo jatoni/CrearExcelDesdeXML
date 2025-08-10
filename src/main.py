@@ -116,9 +116,9 @@ def agregar_hoja_nueva_excel(ruta_excel, dic):
 
         # ---------- FIRMAS ----------
         responsable = " "
-        if "CLAVE_DE_CARRERA" in df_info.columns:
+        if "CLAVE_DE_INSTITUCION" in df_info.columns:
             for clave, nombre in responsables_por_clave.items():
-                if clave in df_info["CLAVE_DE_CARRERA"].astype(str).values:
+                if clave in df_info["CLAVE_DE_INSTITUCION"].astype(str).values:
                     responsable = nombre
                     break
         
@@ -139,5 +139,4 @@ def agregar_hoja_nueva_excel(ruta_excel, dic):
 ruta = "/Users/juanantoniotorres/Documents/ProyectoSalvandoVidaJacqueline/DocuemntosTitulos/Libro de Control de Folios de Titulos y Grados Electrónicos 2025.xlsx"
 registro_alumnos = readXMLAndBuildData()
 dic = registro_alumnos
-print(registro_alumnos)
-#agregar_hoja_nueva_excel(ruta, dic)
+agregar_hoja_nueva_excel(ruta, dic)
