@@ -139,4 +139,5 @@ def agregar_hoja_nueva_excel(ruta_excel, dic):
 ruta = "/Users/juanantoniotorres/Documents/ProyectoSalvandoVidaJacqueline/DocuemntosTitulos/Libro de Control de Folios de Titulos y Grados Electrónicos 2025.xlsx"
 registro_alumnos = readXMLAndBuildData()
 dic = registro_alumnos
+print(dic)
 agregar_hoja_nueva_excel(ruta, dic)
