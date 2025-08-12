@@ -13,7 +13,7 @@ import re
 responsables_por_clave = {
     "150901": "Mtro. Luis Ernesto Gutiérrez Martínez",
     "010162": "Mtra. Lilibeth Hernandez Alva",
-    "010157": "Mtra. Lilibeth Hernandez Alva"  
+    "010157": "Mtra. Lilibeth Hernandez Alva"
 }
 
 def readXMLAndBuildData():
@@ -118,10 +118,10 @@ def agregar_hoja_nueva_excel(ruta_excel, dic):
         # ---------- FIRMAS ----------
         responsable = " "
         if "CLAVE_DE_INSTITUCION" in df_info.columns:
-            for clave, nombre in responsables_por_clave.items():
-                if clave in df_info["CLAVE_DE_INSTITUCION"].astype(str).values:
-                    responsable = nombre
-                    break
+            if (df_info["CLAVE_DE_INSTITUCION"].astype(str) == "150901").any():
+                responsable = "Mtro. Luis Ernesto Gutiérrez Martínez"
+            else:
+                responsable = "Mtra. Lilibeth Hernandez Alva"
         
         
         nueva_hoja.merge_cells("C51:D51")
