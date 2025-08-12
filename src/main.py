@@ -11,7 +11,7 @@ from openpyxl.utils import get_column_letter
 import re
 
 responsables_por_clave = {
-    "150901": "Mtra. Beatriz Adriana Barron Linares",
+    "150901": "Mtro. Luis Ernesto Gutiérrez Martínez",
     "010162": "Mtra. Lilibeth Hernandez Alva",
     "010157": "Mtra. Lilibeth Hernandez Alva"  
 }
