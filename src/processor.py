@@ -106,12 +106,13 @@ def buildDataPaginate(archivos, name_file_base, max_alumnos_por_hoja, dataBuilde
             "CLAVE_DE_INSTITUCION": clave_insitucion,
             "FOLIO_DIGITAL": diccionarioData["Autenticacion"]["@folioDigital"],
         }
-    return dataBuilded.setdefault(name_file, []).append(registro)
+        dataBuilded.setdefault(name_file, []).append(registro)
+    return dataBuilded
 
 def agregar_hoja_nueva_excel(ruta_excel, dic):
     coutn = 0
     libro = load_workbook(ruta_excel)
-    hoja_base = libro[libro.sheetnames[0]]  # Primera hoja como plantilla
+    hoja_base = libro[libro.sheetnames[0]]
 
     for name_file, info in dic.items():
         if name_file in libro.sheetnames:
@@ -173,17 +174,3 @@ def obtenerDatosAlumnos(data):
         for nombre_hoja, lista_dicts in data.items():
             df = pd.DataFrame(lista_dicts)
             df.to_excel(writer, sheet_name=nombre_hoja, index=False)
-
-    
-
-opc = 0
-while opc != 3:
-    opc = int(input("Menú \n1.- Generar Folio de titulos\n2.-Obtener datos de alumnos y enlistarlos\n3.-Salir\nChoose one: "))
-    if opc == 1:
-        ruta = "/Users/juanantoniotorres/Documents/ProyectoSalvandoVidaJacqueline/DocuemntosTitulos/Libro de Control de Folios de Titulos y Grados Electrónicos 2025.xlsx"
-        registro_alumnos = readXMLAndBuildData("./ArchivosXML", True)
-        dic = registro_alumnos
-        agregar_hoja_nueva_excel(ruta, dic)
-    elif opc == 2:
-        registro_alumnos = readXMLAndBuildData("./ArchivosXMLObtenerDatos", False)
-        obtenerDatosAlumnos(registro_alumnos)
