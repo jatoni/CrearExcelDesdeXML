@@ -5,8 +5,15 @@ from openpyxl import load_workbook
 from openpyxl.utils.dataframe import dataframe_to_rows
 import re
 import pprint
+import logging
+
+# ---------- CONFIGURACIÓN DE LOG ----------
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s"
+)
 
 registro_alumnos = {}
+
 
 def readXMLAndBuildData(archivoXML, isPaginate):
     dataBuilded = {}
@@ -17,37 +24,47 @@ def readXMLAndBuildData(archivoXML, isPaginate):
 
     for carpeta in carpetas:
         ruta_carpeta = os.path.join(base_path, carpeta)
+        logging.info(f"Procesando carpeta: {ruta_carpeta}")
         if os.path.isdir(ruta_carpeta):
-            archivos = sorted(os.listdir(ruta_carpeta)) 
+            archivos = sorted(os.listdir(ruta_carpeta))
             name_file_base = os.path.basename(carpeta)
             if isPaginate:
-                dataBuilded = buildDataPaginate(archivos, name_file_base, max_alumnos_por_hoja, dataBuilded, ruta_carpeta)
+                dataBuilded = buildDataPaginate(
+                    archivos,
+                    name_file_base,
+                    max_alumnos_por_hoja,
+                    dataBuilded,
+                    ruta_carpeta,
+                )
             else:
-                dataBuilded = buildDataWithoutPaginate(archivos, name_file_base, dataBuilded, ruta_carpeta)
+                dataBuilded = buildDataWithoutPaginate(
+                    archivos, name_file_base, dataBuilded, ruta_carpeta
+                )
     return dataBuilded
+
 
 def buildDataWithoutPaginate(archivos, name_file_base, dataBuilded, ruta_carpeta):
     for archivo in archivos:
-        if not archivo.endswith('.xml'):
+        if not archivo.endswith(".xml"):
             continue
         name_file = f"{name_file_base}"
         ruta_archivo = os.path.join(ruta_carpeta, archivo)
         folio_Control = os.path.splitext(os.path.basename(archivo))[0]
 
-        with open(ruta_archivo, 'r', encoding='utf-8') as f:
+        with open(ruta_archivo, "r", encoding="utf-8") as f:
             contenido_xml = f.read()
 
         diccionarioData = xmltodict.parse(contenido_xml)["Dec"]
-        #pprint.pprint(diccionarioData)
+        # pprint.pprint(diccionarioData)
         alumno = diccionarioData["Alumno"]
 
         partes = [
             alumno.get("@nombre", ""),
             alumno.get("@primerApellido", ""),
-            alumno.get("@segundoApellido", "")
-        ]   
+            alumno.get("@segundoApellido", ""),
+        ]
         nombreAlumno = " ".join(p for p in partes if p)
-        
+
         curp = diccionarioData["Alumno"]["@curp"]
         carrera = diccionarioData["Carrera"]["@nombreCarrera"]
         name_clave = diccionarioData["Carrera"]["@claveCarrera"]
@@ -57,17 +74,22 @@ def buildDataWithoutPaginate(archivos, name_file_base, dataBuilded, ruta_carpeta
             "CURP": curp,
             "Carrera": carrera,
             "CLAVE_DE_CARRERA": name_clave,
-            "FOLIO_DE_CONTROL": folio_Control
+            "FOLIO_DE_CONTROL": folio_Control,
         }
         dataBuilded.setdefault(name_file, []).append(registro)
     return dataBuilded
 
-def buildDataPaginate(archivos, name_file_base, max_alumnos_por_hoja, dataBuilded, ruta_carpeta):
+
+def buildDataPaginate(
+    archivos, name_file_base, max_alumnos_por_hoja, dataBuilded, ruta_carpeta
+):
     hoja_num = 1
     for archivo in archivos:
-        if not archivo.endswith('.xml'):
+        logging.info(f"Procesando archivo: {archivo}")
+        if not archivo.endswith(".xml"):
             continue
         name_file = f"{name_file_base} Hoja {hoja_num}"
+        logging.info(f"📑 Nombre de hoja generado: {name_file}")
         if len(dataBuilded.get(name_file, [])) >= max_alumnos_por_hoja:
             hoja_num += 1
             name_file = f"{name_file_base} Hoja {hoja_num}"
@@ -75,15 +97,17 @@ def buildDataPaginate(archivos, name_file_base, max_alumnos_por_hoja, dataBuilde
         ruta_archivo = os.path.join(ruta_carpeta, archivo)
         folio_Control = os.path.splitext(os.path.basename(archivo))[0]
 
-        with open(ruta_archivo, 'r', encoding='utf-8') as f:
+        with open(ruta_archivo, "r", encoding="utf-8") as f:
             contenido_xml = f.read()
 
         diccionarioData = xmltodict.parse(contenido_xml)["TituloElectronico"]
 
         nombreAlumno = (
-            diccionarioData["Profesionista"]["@nombre"] + " " +
-            diccionarioData["Profesionista"]["@primerApellido"] + " " +
-            diccionarioData["Profesionista"]["@segundoApellido"]
+            diccionarioData["Profesionista"]["@nombre"]
+            + " "
+            + diccionarioData["Profesionista"]["@primerApellido"]
+            + " "
+            + diccionarioData["Profesionista"]["@segundoApellido"]
         )
         curp = diccionarioData["Profesionista"]["@curp"]
         programa = diccionarioData["Carrera"]["@nombreCarrera"]
@@ -105,9 +129,11 @@ def buildDataPaginate(archivos, name_file_base, max_alumnos_por_hoja, dataBuilde
             "RVOE": rvoe,
             "CLAVE_DE_INSTITUCION": clave_insitucion,
             "FOLIO_DIGITAL": diccionarioData["Autenticacion"]["@folioDigital"],
+            "NOMBRE_INSTITUCION": diccionarioData["Institucion"]["@nombreInstitucion"],
         }
         dataBuilded.setdefault(name_file, []).append(registro)
     return dataBuilded
+
 
 def agregar_hoja_nueva_excel(ruta_excel, dic):
     coutn = 0
@@ -125,21 +151,68 @@ def agregar_hoja_nueva_excel(ruta_excel, dic):
 
         df_info = pd.DataFrame(info)
 
+        # ✅ 1. LEER EL NOMBRE DE LA INSTITUCIÓN
+        nombreInstitucion = ""
+        if "NOMBRE_INSTITUCION" in df_info.columns:
+            nombreInstitucion = str(df_info["NOMBRE_INSTITUCION"].iloc[0])
+
+        # 🧹 2. ELIMINAR COLUMNA PARA QUE NO APAREZCA EN LA TABLA
+        df_info = df_info.drop(columns=["NOMBRE_INSTITUCION"], errors="ignore")
+
+        celda_titulo = nueva_hoja["A1"]
+
+        # Guardar estilo actual
+        estilo = celda_titulo._style
+
+        # Reemplazar texto (sin "Campus Único")
+        celda_titulo.value = nombreInstitucion
+
+        # Reaplicar estilo
+        celda_titulo._style = estilo
+
+        nueva_hoja["A2"].value = ""
+
         # ---------- TABLA DE DATOS ----------
         start_row = 15  # fila donde empieza tu tabla en la plantilla
-        for r_idx, row in enumerate(dataframe_to_rows(df_info, index=False, header=False), start=start_row):
+        for r_idx, row in enumerate(
+            dataframe_to_rows(df_info, index=False, header=False), start=start_row
+        ):
             for c_idx, value in enumerate(row, start=1):
                 nueva_hoja.cell(row=r_idx, column=c_idx, value=value)
 
         # ---------- FECHA ----------
         fecha_valor = ""
-        if "FECHA_DE_EXPEDICION" in df_info.columns and not df_info["FECHA_DE_EXPEDICION"].empty:
+        if (
+            "FECHA_DE_EXPEDICION" in df_info.columns
+            and not df_info["FECHA_DE_EXPEDICION"].empty
+        ):
             fecha_valor = str(df_info["FECHA_DE_EXPEDICION"].iloc[0])
 
         # ---------- HOJA ----------
-        numero_hoja = int(re.search(r'\d+$', name_file).group())
-        prefijo_paq = re.match(r'PAQ\. T-\d+', name_file).group()
-        total_hojas = sum(1 for nombre in dic.keys() if nombre.startswith(prefijo_paq))
+        logging.info(f"Calculando numeración para hoja: {name_file}")
+
+        try:
+            match_num = re.search(r"Hoja\s+(\d+)", name_file)
+            numero_hoja = int(match_num.group(1)) if match_num else 1
+
+            match_prefijo = re.match(r"(PAQ\. T-\d+)", name_file)
+            prefijo_paq = match_prefijo.group(1) if match_prefijo else name_file
+
+            total_hojas = sum(
+                1 for nombre in dic.keys() if nombre.startswith(prefijo_paq)
+            )
+
+        except Exception as e:
+            logging.error("FALLA DETECTADA EN REGEX")
+            logging.error(f"    Hoja    : {name_file}")
+
+            if "__ARCHIVO__" in df_info.columns:
+                logging.error(f"    Archivo : {df_info['__ARCHIVO__'].iloc[0]}")
+
+            if "__CARPETA__" in df_info.columns:
+                logging.error(f"    Carpeta : {df_info['__CARPETA__'].iloc[0]}")
+            logging.exception(e)
+            continue
 
         # Colocar fecha y hoja en celdas fijas
         nueva_hoja["J8"] = fecha_valor
@@ -148,27 +221,28 @@ def agregar_hoja_nueva_excel(ruta_excel, dic):
         # ---------- FIRMAS ----------
         responsable = " "
         if "CLAVE_DE_INSTITUCION" in df_info.columns:
-            if (df_info["CLAVE_DE_INSTITUCION"].astype(str) == "150901").any():
+            if (df_info["CLAVE_DE_INSTITUCION"].astype(str) == "150437").any():
                 responsable = "Mtro. Luis Ernesto Gutiérrez Martínez"
             else:
                 responsable = "Mtra. Lilibeth Hernandez Alva"
-        
-        
+
         nueva_hoja.merge_cells("C51:D51")
-        
+
         nueva_hoja["C51"] = responsable
 
-        
         nueva_hoja["I51"] = "Mtra. Dely Karolina Urbano Sanchez"
         nueva_hoja["I52"] = "RECTOR"
 
-        print(f"Hoja '{name_file}' creada con fecha, hoja y firmas en posiciones exactas.")
+        logging.info(
+            f"Hoja '{name_file}' creada con fecha, hoja y firmas en posiciones exactas."
+        )
         coutn += 1
-    print(f"Total de hojas agregadas: {coutn}")
+    logging.info(f"Total de hojas agregadas: {coutn}")
     libro.save(ruta_excel)
-    
+
+
 def obtenerDatosAlumnos(data):
-    print("Obteniendo Datos de Alumnos...")
+    logging.info("Obteniendo Datos de Alumnos...")
     ruta = "./DocuemntosTitulos/alumnos.xlsx"
     with pd.ExcelWriter(ruta, engine="openpyxl") as writer:
         for nombre_hoja, lista_dicts in data.items():

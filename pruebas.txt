@@ -1,0 +1,1015 @@
+2026-01-06 14:16:58,758 | INFO | 📑 Nombre de hoja generado: PAQ. T-227193 Hoja 1
+2026-01-06 14:16:58,759 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-231492
+2026-01-06 14:16:58,759 | INFO | Procesando archivo: UVGPI_01_010162_00000264425_MSTR_0_01.xml
+2026-01-06 14:16:58,759 | INFO | 📑 Nombre de hoja generado: PAQ. T-231492 Hoja 1
+2026-01-06 14:16:58,759 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-226287
+2026-01-06 14:16:58,759 | INFO | Procesando archivo: ETAC_04_150901_00000359695_UGRD_0_01.xml
+2026-01-06 14:16:58,759 | INFO | 📑 Nombre de hoja generado: PAQ. T-226287 Hoja 1
+2026-01-06 14:16:58,759 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-229439
+2026-01-06 14:16:58,759 | INFO | Procesando archivo: UTNSL_02_010161_00000342510_UGRD_0_01.xml
+2026-01-06 14:16:58,759 | INFO | 📑 Nombre de hoja generado: PAQ. T-229439 Hoja 1
+2026-01-06 14:16:58,759 | INFO | Procesando archivo: UTNSL_02_010161_00000367762_UGRD_0_01.xml
+2026-01-06 14:16:58,760 | INFO | 📑 Nombre de hoja generado: PAQ. T-229439 Hoja 1
+2026-01-06 14:16:58,760 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-231435
+2026-01-06 14:16:58,760 | INFO | Procesando archivo: UNEAQ_01_010157_00000341405_UGRD_0_01.xml
+2026-01-06 14:16:58,760 | INFO | 📑 Nombre de hoja generado: PAQ. T-231435 Hoja 1
+2026-01-06 14:16:58,760 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-231899
+2026-01-06 14:16:58,760 | INFO | Procesando archivo: ONALT_02_010162_00000266783_UGRV_1_02.xml
+2026-01-06 14:16:58,760 | INFO | 📑 Nombre de hoja generado: PAQ. T-231899 Hoja 1
+2026-01-06 14:16:58,760 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-222680
+2026-01-06 14:16:58,760 | INFO | Procesando archivo: B2B_01_150437_00000273260_DCTV_0_01.xml
+2026-01-06 14:16:58,760 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,761 | INFO | Procesando archivo: ETAC_02_150437_00000004277_UGRD_0_01.xml
+2026-01-06 14:16:58,761 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,761 | INFO | Procesando archivo: ETAC_02_150437_00000085256_UGRD_0_01.xml
+2026-01-06 14:16:58,761 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,761 | INFO | Procesando archivo: ETAC_02_150437_00000138158_UGRD_1_01.xml
+2026-01-06 14:16:58,761 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,761 | INFO | Procesando archivo: ETAC_02_150437_00000174530_UGRD_0_01.xml
+2026-01-06 14:16:58,761 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,761 | INFO | Procesando archivo: ETAC_02_150437_00000195857_UGRD_0_01.xml
+2026-01-06 14:16:58,761 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,762 | INFO | Procesando archivo: ETAC_02_150437_00000199452_UGRD_0_01.xml
+2026-01-06 14:16:58,762 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,762 | INFO | Procesando archivo: ETAC_02_150437_00000216887_UGRD_0_01.xml
+2026-01-06 14:16:58,762 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,762 | INFO | Procesando archivo: ETAC_02_150437_00000222782_UGRD_1_01.xml
+2026-01-06 14:16:58,762 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,763 | INFO | Procesando archivo: ETAC_02_150437_00000239069_UGRD_0_01.xml
+2026-01-06 14:16:58,763 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,763 | INFO | Procesando archivo: ETAC_02_150437_00000246236_UGRD_0_01.xml
+2026-01-06 14:16:58,763 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,763 | INFO | Procesando archivo: ETAC_02_150437_00000256554_UGRD_0_01.xml
+2026-01-06 14:16:58,763 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,763 | INFO | Procesando archivo: ETAC_02_150437_00000266861_UGRD_0_01.xml
+2026-01-06 14:16:58,763 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,764 | INFO | Procesando archivo: ETAC_02_150437_00000273938_UGRD_0_01.xml
+2026-01-06 14:16:58,764 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,764 | INFO | Procesando archivo: ETAC_02_150437_00000294628_UGRD_1_01.xml
+2026-01-06 14:16:58,764 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,764 | INFO | Procesando archivo: ETAC_02_150437_00000318963_UGRD_0_01.xml
+2026-01-06 14:16:58,764 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,764 | INFO | Procesando archivo: ETAC_02_150437_00000328726_UGRD_0_01.xml
+2026-01-06 14:16:58,764 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,764 | INFO | Procesando archivo: ETAC_02_150437_00000332789_UGRD_0_01.xml
+2026-01-06 14:16:58,764 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,765 | INFO | Procesando archivo: ETAC_02_150437_00000333410_UGRD_0_01.xml
+2026-01-06 14:16:58,765 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,765 | INFO | Procesando archivo: ETAC_02_150437_00000334892_UGRD_0_01.xml
+2026-01-06 14:16:58,765 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,765 | INFO | Procesando archivo: ETAC_02_150437_00000335765_UGRD_0_01.xml
+2026-01-06 14:16:58,765 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,765 | INFO | Procesando archivo: ETAC_02_150437_00000338115_UGRD_0_01.xml
+2026-01-06 14:16:58,765 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,765 | INFO | Procesando archivo: ETAC_02_150437_00000338478_UGRD_0_01.xml
+2026-01-06 14:16:58,765 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,765 | INFO | Procesando archivo: ETAC_02_150437_00000339229_UGRD_0_01.xml
+2026-01-06 14:16:58,765 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,766 | INFO | Procesando archivo: ETAC_02_150437_00000339589_UGRD_0_01.xml
+2026-01-06 14:16:58,766 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,766 | INFO | Procesando archivo: ETAC_02_150437_00000340220_UGRD_0_01.xml
+2026-01-06 14:16:58,766 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,766 | INFO | Procesando archivo: ETAC_02_150437_00000342244_UGRD_0_01.xml
+2026-01-06 14:16:58,766 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 1
+2026-01-06 14:16:58,766 | INFO | Procesando archivo: ETAC_02_150437_00000342659_UGRD_0_01.xml
+2026-01-06 14:16:58,766 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,766 | INFO | Procesando archivo: ETAC_02_150437_00000343334_UGRD_0_01.xml
+2026-01-06 14:16:58,766 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,766 | INFO | Procesando archivo: ETAC_02_150437_00000346169_UGRD_0_01.xml
+2026-01-06 14:16:58,766 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,767 | INFO | Procesando archivo: ETAC_02_150437_00000351897_UGRD_0_01.xml
+2026-01-06 14:16:58,767 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,767 | INFO | Procesando archivo: ETAC_02_150437_00000354106_UGRD_0_01.xml
+2026-01-06 14:16:58,767 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,767 | INFO | Procesando archivo: ETAC_02_150437_00000361230_UGRD_0_01.xml
+2026-01-06 14:16:58,767 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,767 | INFO | Procesando archivo: ETAC_02_150437_00000362796_MSTR_0_01.xml
+2026-01-06 14:16:58,767 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,767 | INFO | Procesando archivo: ETAC_02_150437_00000364032_UGRD_0_01.xml
+2026-01-06 14:16:58,767 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,768 | INFO | Procesando archivo: ETAC_02_150437_00000372170_UGRD_0_01.xml
+2026-01-06 14:16:58,768 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,768 | INFO | Procesando archivo: ETAC_02_150437_00000374980_UGRD_0_01.xml
+2026-01-06 14:16:58,768 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,768 | INFO | Procesando archivo: ETAC_02_150437_00000378767_UGRD_0_01.xml
+2026-01-06 14:16:58,768 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,768 | INFO | Procesando archivo: ETAC_02_150437_00000379142_UGRD_0_01.xml
+2026-01-06 14:16:58,768 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,768 | INFO | Procesando archivo: ETAC_02_150437_00000381793_UGRD_0_01.xml
+2026-01-06 14:16:58,768 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,768 | INFO | Procesando archivo: ETAC_02_150437_00000384954_UGRD_0_01.xml
+2026-01-06 14:16:58,768 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,769 | INFO | Procesando archivo: ETAC_02_150437_00000385378_UGRD_0_01.xml
+2026-01-06 14:16:58,769 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,769 | INFO | Procesando archivo: ETAC_02_150437_00000386315_MSTR_0_01.xml
+2026-01-06 14:16:58,769 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,769 | INFO | Procesando archivo: ETAV_05_150437_00000145200_MSTV_1_01.xml
+2026-01-06 14:16:58,769 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,769 | INFO | Procesando archivo: ETAV_05_150437_00000162906_MSTV_0_01.xml
+2026-01-06 14:16:58,769 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,769 | INFO | Procesando archivo: ETAV_05_150437_00000196924_DCTV_0_01.xml
+2026-01-06 14:16:58,769 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,770 | INFO | Procesando archivo: ETAV_05_150437_00000197896_MSTV_0_01.xml
+2026-01-06 14:16:58,770 | INFO | 📑 Nombre de hoja generado: PAQ. T-222680 Hoja 2
+2026-01-06 14:16:58,770 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-215468
+2026-01-06 14:16:58,770 | INFO | Procesando archivo: ONALT_03_010157_00000268737_UGRV_0_01.xml
+2026-01-06 14:16:58,770 | INFO | 📑 Nombre de hoja generado: PAQ. T-215468 Hoja 1
+2026-01-06 14:16:58,770 | INFO | Procesando archivo: ONALT_03_010157_00000284703_UGRV_1_01.xml
+2026-01-06 14:16:58,770 | INFO | 📑 Nombre de hoja generado: PAQ. T-215468 Hoja 1
+2026-01-06 14:16:58,770 | INFO | Procesando archivo: POLOS_36_010157_00000255929_UGRV_1_01.xml
+2026-01-06 14:16:58,770 | INFO | 📑 Nombre de hoja generado: PAQ. T-215468 Hoja 1
+2026-01-06 14:16:58,771 | INFO | Procesando archivo: POLOS_37_010157_00000283519_UGRV_1_01.xml
+2026-01-06 14:16:58,771 | INFO | 📑 Nombre de hoja generado: PAQ. T-215468 Hoja 1
+2026-01-06 14:16:58,771 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-229430
+2026-01-06 14:16:58,772 | INFO | Procesando archivo: UNETJ_05_010157_00000343275_UGRD_0_01.xml
+2026-01-06 14:16:58,772 | INFO | 📑 Nombre de hoja generado: PAQ. T-229430 Hoja 1
+2026-01-06 14:16:58,772 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-235484
+2026-01-06 14:16:58,772 | INFO | Procesando archivo: UNEAQ_01_010157_00000336627_UGRD_0_01.xml
+2026-01-06 14:16:58,772 | INFO | 📑 Nombre de hoja generado: PAQ. T-235484 Hoja 1
+2026-01-06 14:16:58,772 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-235483
+2026-01-06 14:16:58,772 | INFO | Procesando archivo: ONALT_03_010157_00000340442_UGRV_0_01.xml
+2026-01-06 14:16:58,772 | INFO | 📑 Nombre de hoja generado: PAQ. T-235483 Hoja 1
+2026-01-06 14:16:58,773 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-223981
+2026-01-06 14:16:58,773 | INFO | Procesando archivo: B2B_01_150437_00000277666_MSTV_0_01.xml
+2026-01-06 14:16:58,773 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,773 | INFO | Procesando archivo: ETAC_02_150437_00000000167_UGRD_1_01.xml
+2026-01-06 14:16:58,773 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,773 | INFO | Procesando archivo: ETAC_02_150437_00000029976_UGRD_2_01.xml
+2026-01-06 14:16:58,773 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,774 | INFO | Procesando archivo: ETAC_02_150437_00000078253_UGRD_0_01.xml
+2026-01-06 14:16:58,774 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,774 | INFO | Procesando archivo: ETAC_02_150437_00000291751_UGRD_0_01.xml
+2026-01-06 14:16:58,774 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,774 | INFO | Procesando archivo: ETAC_02_150437_00000316144_UGRD_0_01.xml
+2026-01-06 14:16:58,774 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,774 | INFO | Procesando archivo: ETAC_02_150437_00000321792_UGRD_0_01.xml
+2026-01-06 14:16:58,774 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,774 | INFO | Procesando archivo: ETAC_02_150437_00000323000_UGRD_0_01.xml
+2026-01-06 14:16:58,774 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,775 | INFO | Procesando archivo: ETAC_02_150437_00000324260_UGRD_0_01.xml
+2026-01-06 14:16:58,775 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,775 | INFO | Procesando archivo: ETAC_02_150437_00000326773_UGRD_0_01.xml
+2026-01-06 14:16:58,775 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,775 | INFO | Procesando archivo: ETAC_02_150437_00000332240_UGRD_0_01.xml
+2026-01-06 14:16:58,775 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,775 | INFO | Procesando archivo: ETAC_02_150437_00000334858_UGRD_0_01.xml
+2026-01-06 14:16:58,775 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,775 | INFO | Procesando archivo: ETAC_02_150437_00000337966_UGRD_0_01.xml
+2026-01-06 14:16:58,775 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,776 | INFO | Procesando archivo: ETAC_02_150437_00000339252_UGRD_0_01.xml
+2026-01-06 14:16:58,776 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,776 | INFO | Procesando archivo: ETAC_02_150437_00000382376_UGRD_0_01.xml
+2026-01-06 14:16:58,776 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,776 | INFO | Procesando archivo: ETAV_05_150437_00000133810_MSTV_0_01.xml
+2026-01-06 14:16:58,776 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,776 | INFO | Procesando archivo: ETAV_05_150437_00000198523_MSTV_0_01.xml
+2026-01-06 14:16:58,776 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,776 | INFO | Procesando archivo: ONALT_01_150437_00000239856_MSTV_0_01.xml
+2026-01-06 14:16:58,776 | INFO | 📑 Nombre de hoja generado: PAQ. T-223981 Hoja 1
+2026-01-06 14:16:58,776 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-216854
+2026-01-06 14:16:58,777 | INFO | Procesando archivo: B2B_01_150437_00000242326_DCTV_0_01.xml
+2026-01-06 14:16:58,777 | INFO | 📑 Nombre de hoja generado: PAQ. T-216854 Hoja 1
+2026-01-06 14:16:58,777 | INFO | Procesando archivo: ETAC_02_150437_00000036017_UGRD_0_01.xml
+2026-01-06 14:16:58,777 | INFO | 📑 Nombre de hoja generado: PAQ. T-216854 Hoja 1
+2026-01-06 14:16:58,777 | INFO | Procesando archivo: ETAC_02_150437_00000175766_UGRD_0_01.xml
+2026-01-06 14:16:58,777 | INFO | 📑 Nombre de hoja generado: PAQ. T-216854 Hoja 1
+2026-01-06 14:16:58,778 | INFO | Procesando archivo: ETAC_02_150437_00000222776_UGRD_0_01.xml
+2026-01-06 14:16:58,778 | INFO | 📑 Nombre de hoja generado: PAQ. T-216854 Hoja 1
+2026-01-06 14:16:58,778 | INFO | Procesando archivo: ETAC_02_150437_00000264391_UGRD_0_01.xml
+2026-01-06 14:16:58,778 | INFO | 📑 Nombre de hoja generado: PAQ. T-216854 Hoja 1
+2026-01-06 14:16:58,778 | INFO | Procesando archivo: ETAC_02_150437_00000268389_UGRD_0_01.xml
+2026-01-06 14:16:58,778 | INFO | 📑 Nombre de hoja generado: PAQ. T-216854 Hoja 1
+2026-01-06 14:16:58,778 | INFO | Procesando archivo: ETAC_02_150437_00000282198_UGRD_0_01.xml
+2026-01-06 14:16:58,778 | INFO | 📑 Nombre de hoja generado: PAQ. T-216854 Hoja 1
+2026-01-06 14:16:58,778 | INFO | Procesando archivo: ETAC_02_150437_00000323001_UGRD_0_01.xml
+2026-01-06 14:16:58,778 | INFO | 📑 Nombre de hoja generado: PAQ. T-216854 Hoja 1
+2026-01-06 14:16:58,779 | INFO | Procesando archivo: ETAC_02_150437_00000326459_UGRD_0_01.xml
+2026-01-06 14:16:58,779 | INFO | 📑 Nombre de hoja generado: PAQ. T-216854 Hoja 1
+2026-01-06 14:16:58,779 | INFO | Procesando archivo: ETAC_02_150437_00000330035_UGRD_0_01.xml
+2026-01-06 14:16:58,779 | INFO | 📑 Nombre de hoja generado: PAQ. T-216854 Hoja 1
+2026-01-06 14:16:58,779 | INFO | Procesando archivo: ETAC_02_150437_00000337410_UGRD_0_01.xml
+2026-01-06 14:16:58,779 | INFO | 📑 Nombre de hoja generado: PAQ. T-216854 Hoja 1
+2026-01-06 14:16:58,779 | INFO | Procesando archivo: ETAV_05_150437_00000279802_MSTV_0_01.xml
+2026-01-06 14:16:58,779 | INFO | 📑 Nombre de hoja generado: PAQ. T-216854 Hoja 1
+2026-01-06 14:16:58,779 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-226297
+2026-01-06 14:16:58,780 | INFO | Procesando archivo: B2B_01_150437_00000314635_MSTV_0_01.xml
+2026-01-06 14:16:58,780 | INFO | 📑 Nombre de hoja generado: PAQ. T-226297 Hoja 1
+2026-01-06 14:16:58,780 | INFO | Procesando archivo: ETAV_05_150437_00000064923_MSTV_1_01.xml
+2026-01-06 14:16:58,780 | INFO | 📑 Nombre de hoja generado: PAQ. T-226297 Hoja 1
+2026-01-06 14:16:58,780 | INFO | Procesando archivo: ETAV_05_150437_00000313482_MSTV_0_01.xml
+2026-01-06 14:16:58,780 | INFO | 📑 Nombre de hoja generado: PAQ. T-226297 Hoja 1
+2026-01-06 14:16:58,780 | INFO | Procesando archivo: ONALT_01_150437_00000308202_MSTV_0_01.xml
+2026-01-06 14:16:58,780 | INFO | 📑 Nombre de hoja generado: PAQ. T-226297 Hoja 1
+2026-01-06 14:16:58,780 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-235022
+2026-01-06 14:16:58,780 | INFO | Procesando archivo: ETAC_06_150901_00000333762_UGRD_0_01.xml
+2026-01-06 14:16:58,780 | INFO | 📑 Nombre de hoja generado: PAQ. T-235022 Hoja 1
+2026-01-06 14:16:58,781 | INFO | Procesando archivo: ETAC_06_150901_00000342927_UGRD_1_01.xml
+2026-01-06 14:16:58,781 | INFO | 📑 Nombre de hoja generado: PAQ. T-235022 Hoja 1
+2026-01-06 14:16:58,781 | INFO | Procesando archivo: ETAC_06_150901_00000346992_UGRD_0_01.xml
+2026-01-06 14:16:58,781 | INFO | 📑 Nombre de hoja generado: PAQ. T-235022 Hoja 1
+2026-01-06 14:16:58,782 | INFO | Procesando archivo: ETAC_06_150901_00000350372_UGRD_0_01.xml
+2026-01-06 14:16:58,782 | INFO | 📑 Nombre de hoja generado: PAQ. T-235022 Hoja 1
+2026-01-06 14:16:58,782 | INFO | Procesando archivo: ETAC_06_150901_00000356226_UGRD_0_01.xml
+2026-01-06 14:16:58,782 | INFO | 📑 Nombre de hoja generado: PAQ. T-235022 Hoja 1
+2026-01-06 14:16:58,782 | INFO | Procesando archivo: ETAC_06_150901_00000358284_UGRD_1_01.xml
+2026-01-06 14:16:58,782 | INFO | 📑 Nombre de hoja generado: PAQ. T-235022 Hoja 1
+2026-01-06 14:16:58,782 | INFO | Procesando archivo: ETAC_06_150901_00000358591_UGRD_0_01.xml
+2026-01-06 14:16:58,782 | INFO | 📑 Nombre de hoja generado: PAQ. T-235022 Hoja 1
+2026-01-06 14:16:58,782 | INFO | Procesando archivo: ETAC_06_150901_00000361161_UGRD_0_01.xml
+2026-01-06 14:16:58,782 | INFO | 📑 Nombre de hoja generado: PAQ. T-235022 Hoja 1
+2026-01-06 14:16:58,782 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-229442
+2026-01-06 14:16:58,782 | INFO | Procesando archivo: UVGCM_01_010162_00000341757_UGRD_0_01.xml
+2026-01-06 14:16:58,782 | INFO | 📑 Nombre de hoja generado: PAQ. T-229442 Hoja 1
+2026-01-06 14:16:58,783 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-222663
+2026-01-06 14:16:58,783 | INFO | Procesando archivo: B2B_01_150901_00000279945_UGRV_0_01.xml
+2026-01-06 14:16:58,783 | INFO | 📑 Nombre de hoja generado: PAQ. T-222663 Hoja 1
+2026-01-06 14:16:58,783 | INFO | Procesando archivo: B2B_06_150901_00000345228_UGRV_0_01.xml
+2026-01-06 14:16:58,783 | INFO | 📑 Nombre de hoja generado: PAQ. T-222663 Hoja 1
+2026-01-06 14:16:58,783 | INFO | Procesando archivo: ETAC_06_150901_00000320355_UGRD_0_01.xml
+2026-01-06 14:16:58,783 | INFO | 📑 Nombre de hoja generado: PAQ. T-222663 Hoja 1
+2026-01-06 14:16:58,784 | INFO | Procesando archivo: ETAC_06_150901_00000320931_UGRD_0_01.xml
+2026-01-06 14:16:58,784 | INFO | 📑 Nombre de hoja generado: PAQ. T-222663 Hoja 1
+2026-01-06 14:16:58,784 | INFO | Procesando archivo: ONALT_01_150901_00000298492_MSTV_1_01.xml
+2026-01-06 14:16:58,784 | INFO | 📑 Nombre de hoja generado: PAQ. T-222663 Hoja 1
+2026-01-06 14:16:58,784 | INFO | Procesando archivo: ONALT_01_150901_00000323822_UGRV_0_01.xml
+2026-01-06 14:16:58,784 | INFO | 📑 Nombre de hoja generado: PAQ. T-222663 Hoja 1
+2026-01-06 14:16:58,784 | INFO | Procesando archivo: ONALT_03_010157_00000203862_UGRV_0_01.xml
+2026-01-06 14:16:58,784 | INFO | 📑 Nombre de hoja generado: PAQ. T-222663 Hoja 1
+2026-01-06 14:16:58,785 | INFO | Procesando archivo: UVGCE_01_010162_00000360556_MSTR_0_02.xml
+2026-01-06 14:16:58,785 | INFO | 📑 Nombre de hoja generado: PAQ. T-222663 Hoja 1
+2026-01-06 14:16:58,785 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-234195
+2026-01-06 14:16:58,785 | INFO | Procesando archivo: ETAC_03_150901_00000329395_UGRD_1_01.xml
+2026-01-06 14:16:58,785 | INFO | 📑 Nombre de hoja generado: PAQ. T-234195 Hoja 1
+2026-01-06 14:16:58,785 | INFO | Procesando archivo: ETAC_03_150901_00000344273_UGRD_0_01.xml
+2026-01-06 14:16:58,785 | INFO | 📑 Nombre de hoja generado: PAQ. T-234195 Hoja 1
+2026-01-06 14:16:58,785 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-231873
+2026-01-06 14:16:58,785 | INFO | Procesando archivo: ETAC_03_150901_00000344775_UGRD_0_01.xml
+2026-01-06 14:16:58,785 | INFO | 📑 Nombre de hoja generado: PAQ. T-231873 Hoja 1
+2026-01-06 14:16:58,786 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-233388
+2026-01-06 14:16:58,786 | INFO | Procesando archivo: B2B_01_150437_00000227859_MSTV_0_01.xml
+2026-01-06 14:16:58,786 | INFO | 📑 Nombre de hoja generado: PAQ. T-233388 Hoja 1
+2026-01-06 14:16:58,786 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-231470
+2026-01-06 14:16:58,786 | INFO | Procesando archivo: UTNSL_02_010161_00000336051_UGRD_0_01.xml
+2026-01-06 14:16:58,786 | INFO | 📑 Nombre de hoja generado: PAQ. T-231470 Hoja 1
+2026-01-06 14:16:58,786 | INFO | Procesando archivo: UTNSL_02_010161_00000344360_UGRD_0_01.xml
+2026-01-06 14:16:58,786 | INFO | 📑 Nombre de hoja generado: PAQ. T-231470 Hoja 1
+2026-01-06 14:16:58,787 | INFO | Procesando archivo: UTNSL_02_010161_00000345175_UGRD_0_01.xml
+2026-01-06 14:16:58,787 | INFO | 📑 Nombre de hoja generado: PAQ. T-231470 Hoja 1
+2026-01-06 14:16:58,787 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-227944
+2026-01-06 14:16:58,787 | INFO | Procesando archivo: ONALT_03_010157_00000239512_UGRV_0_02.xml
+2026-01-06 14:16:58,787 | INFO | 📑 Nombre de hoja generado: PAQ. T-227944 Hoja 1
+2026-01-06 14:16:58,787 | INFO | Procesando archivo: ONALT_03_010157_00000364995_UGRV_0_01.xml
+2026-01-06 14:16:58,787 | INFO | 📑 Nombre de hoja generado: PAQ. T-227944 Hoja 1
+2026-01-06 14:16:58,788 | INFO | Procesando archivo: ONALT_03_010157_00000394603_MSTV_0_01.xml
+2026-01-06 14:16:58,788 | INFO | 📑 Nombre de hoja generado: PAQ. T-227944 Hoja 1
+2026-01-06 14:16:58,788 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-234194
+2026-01-06 14:16:58,788 | INFO | Procesando archivo: B2B_11_010157_00000295608_MSTV_2_01.xml
+2026-01-06 14:16:58,788 | INFO | 📑 Nombre de hoja generado: PAQ. T-234194 Hoja 1
+2026-01-06 14:16:58,788 | INFO | Procesando archivo: ONALT_03_010157_00000352228_UGRV_0_01.xml
+2026-01-06 14:16:58,788 | INFO | 📑 Nombre de hoja generado: PAQ. T-234194 Hoja 1
+2026-01-06 14:16:58,789 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-215470
+2026-01-06 14:16:58,789 | INFO | Procesando archivo: ETAC_06_150901_00000349641_UGRD_1_02.xml
+2026-01-06 14:16:58,789 | INFO | 📑 Nombre de hoja generado: PAQ. T-215470 Hoja 1
+2026-01-06 14:16:58,789 | INFO | Procesando archivo: ONALT_01_150901_00000306683_UGRV_0_01.xml
+2026-01-06 14:16:58,789 | INFO | 📑 Nombre de hoja generado: PAQ. T-215470 Hoja 1
+2026-01-06 14:16:58,789 | INFO | Procesando archivo: ONALT_01_150901_00000388256_UGRV_0_01.xml
+2026-01-06 14:16:58,789 | INFO | 📑 Nombre de hoja generado: PAQ. T-215470 Hoja 1
+2026-01-06 14:16:58,790 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-220082
+2026-01-06 14:16:58,790 | INFO | Procesando archivo: B2B_01_150437_00000235531_DCTV_0_01.xml
+2026-01-06 14:16:58,790 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,790 | INFO | Procesando archivo: B2B_01_150437_00000299771_MSTV_1_01.xml
+2026-01-06 14:16:58,790 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,791 | INFO | Procesando archivo: ETAC_02_150437_00000033497_UGRD_0_01.xml
+2026-01-06 14:16:58,791 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,791 | INFO | Procesando archivo: ETAC_02_150437_00000071505_UGRD_0_01.xml
+2026-01-06 14:16:58,791 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,792 | INFO | Procesando archivo: ETAC_02_150437_00000143307_UGRD_1_01.xml
+2026-01-06 14:16:58,792 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,792 | INFO | Procesando archivo: ETAC_02_150437_00000169714_MSTR_0_01.xml
+2026-01-06 14:16:58,792 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,792 | INFO | Procesando archivo: ETAC_02_150437_00000312191_UGRD_1_01.xml
+2026-01-06 14:16:58,792 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,792 | INFO | Procesando archivo: ETAC_02_150437_00000341844_UGRD_0_01.xml
+2026-01-06 14:16:58,792 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,792 | INFO | Procesando archivo: ETAC_02_150437_00000349275_UGRD_0_01.xml
+2026-01-06 14:16:58,792 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,793 | INFO | Procesando archivo: ETAC_02_150437_00000350846_UGRD_1_01.xml
+2026-01-06 14:16:58,793 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,793 | INFO | Procesando archivo: ETAC_02_150437_00000383077_UGRD_0_01.xml
+2026-01-06 14:16:58,793 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,793 | INFO | Procesando archivo: ETAC_02_150437_00000386188_UGRD_0_01.xml
+2026-01-06 14:16:58,793 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,793 | INFO | Procesando archivo: ETAC_02_150437_00000388340_UGRD_0_01.xml
+2026-01-06 14:16:58,793 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,793 | INFO | Procesando archivo: ETAV_05_150437_00000162560_MSTV_0_01.xml
+2026-01-06 14:16:58,793 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,794 | INFO | Procesando archivo: ETAV_05_150437_00000227420_MSTV_0_01.xml
+2026-01-06 14:16:58,794 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,794 | INFO | Procesando archivo: ETAV_05_150437_00000227563_MSTV_0_01.xml
+2026-01-06 14:16:58,794 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,794 | INFO | Procesando archivo: ETAV_05_150437_00000300519_MSTV_0_01.xml
+2026-01-06 14:16:58,794 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,794 | INFO | Procesando archivo: ONALT_01_150437_00000284418_MSTV_0_01.xml
+2026-01-06 14:16:58,794 | INFO | 📑 Nombre de hoja generado: PAQ. T-220082 Hoja 1
+2026-01-06 14:16:58,794 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-214627
+2026-01-06 14:16:58,794 | INFO | Procesando archivo: ONALT_03_010157_00000310799_UGRV_0_01.xml
+2026-01-06 14:16:58,794 | INFO | 📑 Nombre de hoja generado: PAQ. T-214627 Hoja 1
+2026-01-06 14:16:58,795 | INFO | Procesando archivo: UNEAQ_01_010157_00000310262_UGRD_1_03.xml
+2026-01-06 14:16:58,795 | INFO | 📑 Nombre de hoja generado: PAQ. T-214627 Hoja 1
+2026-01-06 14:16:58,795 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-232781
+2026-01-06 14:16:58,795 | INFO | Procesando archivo: UTNSL_02_010161_00000309335_UGRD_1_01.xml
+2026-01-06 14:16:58,795 | INFO | 📑 Nombre de hoja generado: PAQ. T-232781 Hoja 1
+2026-01-06 14:16:58,795 | INFO | Procesando archivo: UTNSL_02_010161_00000341139_UGRD_0_01.xml
+2026-01-06 14:16:58,795 | INFO | 📑 Nombre de hoja generado: PAQ. T-232781 Hoja 1
+2026-01-06 14:16:58,796 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ, T-215480
+2026-01-06 14:16:58,796 | INFO | Procesando archivo: ETAC_02_150437_00000106760_UGRD_0_01.xml
+2026-01-06 14:16:58,796 | INFO | 📑 Nombre de hoja generado: PAQ, T-215480 Hoja 1
+2026-01-06 14:16:58,796 | INFO | Procesando archivo: ETAC_02_150437_00000229093_UGRD_1_01.xml
+2026-01-06 14:16:58,796 | INFO | 📑 Nombre de hoja generado: PAQ, T-215480 Hoja 1
+2026-01-06 14:16:58,796 | INFO | Procesando archivo: ETAC_02_150437_00000240044_UGRD_0_01.xml
+2026-01-06 14:16:58,796 | INFO | 📑 Nombre de hoja generado: PAQ, T-215480 Hoja 1
+2026-01-06 14:16:58,796 | INFO | Procesando archivo: ETAC_02_150437_00000293848_UGRD_0_02.xml
+2026-01-06 14:16:58,796 | INFO | 📑 Nombre de hoja generado: PAQ, T-215480 Hoja 1
+2026-01-06 14:16:58,797 | INFO | Procesando archivo: ETAC_02_150437_00000327869_UGRD_0_01.xml
+2026-01-06 14:16:58,797 | INFO | 📑 Nombre de hoja generado: PAQ, T-215480 Hoja 1
+2026-01-06 14:16:58,797 | INFO | Procesando archivo: ETAC_02_150437_00000332840_UGRD_0_01.xml
+2026-01-06 14:16:58,797 | INFO | 📑 Nombre de hoja generado: PAQ, T-215480 Hoja 1
+2026-01-06 14:16:58,797 | INFO | Procesando archivo: ETAC_02_150437_00000338923_UGRD_0_01.xml
+2026-01-06 14:16:58,797 | INFO | 📑 Nombre de hoja generado: PAQ, T-215480 Hoja 1
+2026-01-06 14:16:58,797 | INFO | Procesando archivo: ETAC_02_150437_00000339147_UGRD_0_01.xml
+2026-01-06 14:16:58,797 | INFO | 📑 Nombre de hoja generado: PAQ, T-215480 Hoja 1
+2026-01-06 14:16:58,798 | INFO | Procesando archivo: ETAC_02_150437_00000340168_UGRD_0_01.xml
+2026-01-06 14:16:58,798 | INFO | 📑 Nombre de hoja generado: PAQ, T-215480 Hoja 1
+2026-01-06 14:16:58,798 | INFO | Procesando archivo: ETAC_02_150437_00000341392_UGRD_1_02.xml
+2026-01-06 14:16:58,798 | INFO | 📑 Nombre de hoja generado: PAQ, T-215480 Hoja 1
+2026-01-06 14:16:58,798 | INFO | Procesando archivo: ETAC_02_150437_00000345381_UGRD_0_01.xml
+2026-01-06 14:16:58,798 | INFO | 📑 Nombre de hoja generado: PAQ, T-215480 Hoja 1
+2026-01-06 14:16:58,798 | INFO | Procesando archivo: ETAC_02_150437_00000348992_UGRD_0_01.xml
+2026-01-06 14:16:58,798 | INFO | 📑 Nombre de hoja generado: PAQ, T-215480 Hoja 1
+2026-01-06 14:16:58,798 | INFO | Procesando archivo: ETAC_02_150437_00000350411_UGRD_0_01.xml
+2026-01-06 14:16:58,798 | INFO | 📑 Nombre de hoja generado: PAQ, T-215480 Hoja 1
+2026-01-06 14:16:58,799 | INFO | Procesando archivo: ETAV_05_150437_00000256272_UGRV_0_01.xml
+2026-01-06 14:16:58,799 | INFO | 📑 Nombre de hoja generado: PAQ, T-215480 Hoja 1
+2026-01-06 14:16:58,799 | INFO | Procesando archivo: ETAV_05_150437_00000301687_MSTV_0_01.xml
+2026-01-06 14:16:58,799 | INFO | 📑 Nombre de hoja generado: PAQ, T-215480 Hoja 1
+2026-01-06 14:16:58,799 | INFO | Procesando archivo: ETAV_05_150437_00000311534_MSTV_0_02.xml
+2026-01-06 14:16:58,799 | INFO | 📑 Nombre de hoja generado: PAQ, T-215480 Hoja 1
+2026-01-06 14:16:58,799 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-218411
+2026-01-06 14:16:58,799 | INFO | Procesando archivo: ONALT_02_010162_00000258189_UGRV_0_02.xml
+2026-01-06 14:16:58,799 | INFO | 📑 Nombre de hoja generado: PAQ. T-218411 Hoja 1
+2026-01-06 14:16:58,799 | INFO | Procesando archivo: UVGCE_01_010162_00000181898_MSTR_0_02.xml
+2026-01-06 14:16:58,799 | INFO | 📑 Nombre de hoja generado: PAQ. T-218411 Hoja 1
+2026-01-06 14:16:58,800 | INFO | Procesando archivo: UVGCE_01_010162_00000237008_MSTR_1_03.xml
+2026-01-06 14:16:58,800 | INFO | 📑 Nombre de hoja generado: PAQ. T-218411 Hoja 1
+2026-01-06 14:16:58,800 | INFO | Procesando archivo: UVGPI_01_010162_00000331270_MSTR_0_02.xml
+2026-01-06 14:16:58,800 | INFO | 📑 Nombre de hoja generado: PAQ. T-218411 Hoja 1
+2026-01-06 14:16:58,800 | INFO | Procesando archivo: UVGPI_01_010162_00000332318_MSTR_2_02.xml
+2026-01-06 14:16:58,800 | INFO | 📑 Nombre de hoja generado: PAQ. T-218411 Hoja 1
+2026-01-06 14:16:58,801 | INFO | Procesando archivo: UVGPI_01_010162_00000343537_MSTR_0_02.xml
+2026-01-06 14:16:58,801 | INFO | 📑 Nombre de hoja generado: PAQ. T-218411 Hoja 1
+2026-01-06 14:16:58,801 | INFO | Procesando archivo: UVGPI_01_010162_00000346710_MSTR_0_03.xml
+2026-01-06 14:16:58,801 | INFO | 📑 Nombre de hoja generado: PAQ. T-218411 Hoja 1
+2026-01-06 14:16:58,801 | INFO | Procesando archivo: UVGPI_01_010162_00000349003_MSTR_0_02.xml
+2026-01-06 14:16:58,801 | INFO | 📑 Nombre de hoja generado: PAQ. T-218411 Hoja 1
+2026-01-06 14:16:58,801 | INFO | Procesando archivo: UVGPI_01_010162_00000349543_MSTR_0_02.xml
+2026-01-06 14:16:58,801 | INFO | 📑 Nombre de hoja generado: PAQ. T-218411 Hoja 1
+2026-01-06 14:16:58,802 | INFO | Procesando archivo: UVGPI_01_010162_00000352024_MSTR_0_04.xml
+2026-01-06 14:16:58,802 | INFO | 📑 Nombre de hoja generado: PAQ. T-218411 Hoja 1
+2026-01-06 14:16:58,802 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-217662
+2026-01-06 14:16:58,802 | INFO | Procesando archivo: ONALT_03_010157_00000226963_UGRV_0_02.xml
+2026-01-06 14:16:58,802 | INFO | 📑 Nombre de hoja generado: PAQ. T-217662 Hoja 1
+2026-01-06 14:16:58,802 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-225330
+2026-01-06 14:16:58,802 | INFO | Procesando archivo: ETAC_04_150901_00000016282_MSTR_0_01.xml
+2026-01-06 14:16:58,802 | INFO | 📑 Nombre de hoja generado: PAQ. T-225330 Hoja 1
+2026-01-06 14:16:58,803 | INFO | Procesando archivo: ETAC_04_150901_00000340117_UGRD_0_01.xml
+2026-01-06 14:16:58,803 | INFO | 📑 Nombre de hoja generado: PAQ. T-225330 Hoja 1
+2026-01-06 14:16:58,803 | INFO | Procesando archivo: ETAC_04_150901_00000342899_UGRD_0_01.xml
+2026-01-06 14:16:58,803 | INFO | 📑 Nombre de hoja generado: PAQ. T-225330 Hoja 1
+2026-01-06 14:16:58,803 | INFO | Procesando archivo: ETAC_04_150901_00000346318_UGRD_0_01.xml
+2026-01-06 14:16:58,803 | INFO | 📑 Nombre de hoja generado: PAQ. T-225330 Hoja 1
+2026-01-06 14:16:58,804 | INFO | Procesando archivo: ETAC_04_150901_00000364431_UGRD_0_01.xml
+2026-01-06 14:16:58,804 | INFO | 📑 Nombre de hoja generado: PAQ. T-225330 Hoja 1
+2026-01-06 14:16:58,804 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-220070
+2026-01-06 14:16:58,804 | INFO | Procesando archivo: UVGPI_01_010162_00000331861_MSTR_0_02.xml
+2026-01-06 14:16:58,804 | INFO | 📑 Nombre de hoja generado: PAQ. T-220070 Hoja 1
+2026-01-06 14:16:58,804 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-217663
+2026-01-06 14:16:58,805 | INFO | Procesando archivo: B2B_06_150901_00000248109_MSTV_0_01.xml
+2026-01-06 14:16:58,805 | INFO | 📑 Nombre de hoja generado: PAQ. T-217663 Hoja 1
+2026-01-06 14:16:58,805 | INFO | Procesando archivo: B2B_06_150901_00000320386_UGRV_0_01.xml
+2026-01-06 14:16:58,805 | INFO | 📑 Nombre de hoja generado: PAQ. T-217663 Hoja 1
+2026-01-06 14:16:58,805 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-211914
+2026-01-06 14:16:58,805 | INFO | Procesando archivo: ONALT_03_010157_00000304009_UGRV_0_02.xml
+2026-01-06 14:16:58,805 | INFO | 📑 Nombre de hoja generado: PAQ. T-211914 Hoja 1
+2026-01-06 14:16:58,806 | INFO | Procesando archivo: ONALT_03_010157_00000321708_UGRV_0_02.xml
+2026-01-06 14:16:58,806 | INFO | 📑 Nombre de hoja generado: PAQ. T-211914 Hoja 1
+2026-01-06 14:16:58,806 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-221111
+2026-01-06 14:16:58,806 | INFO | Procesando archivo: B2B_01_150437_00000238099_DCTV_0_01.xml
+2026-01-06 14:16:58,806 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,806 | INFO | Procesando archivo: ETAC_02_150437_00000139264_UGRD_0_01.xml
+2026-01-06 14:16:58,806 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,807 | INFO | Procesando archivo: ETAC_02_150437_00000151674_UGRD_0_01.xml
+2026-01-06 14:16:58,807 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,807 | INFO | Procesando archivo: ETAC_02_150437_00000155901_UGRD_0_01.xml
+2026-01-06 14:16:58,807 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,807 | INFO | Procesando archivo: ETAC_02_150437_00000179594_UGRD_0_01.xml
+2026-01-06 14:16:58,807 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,808 | INFO | Procesando archivo: ETAC_02_150437_00000190469_UGRD_1_01.xml
+2026-01-06 14:16:58,808 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,808 | INFO | Procesando archivo: ETAC_02_150437_00000272114_UGRD_0_01.xml
+2026-01-06 14:16:58,808 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,808 | INFO | Procesando archivo: ETAC_02_150437_00000275231_UGRD_0_01.xml
+2026-01-06 14:16:58,808 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,808 | INFO | Procesando archivo: ETAC_02_150437_00000290740_UGRD_1_01.xml
+2026-01-06 14:16:58,808 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,808 | INFO | Procesando archivo: ETAC_02_150437_00000316793_UGRD_0_01.xml
+2026-01-06 14:16:58,808 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,809 | INFO | Procesando archivo: ETAC_02_150437_00000317621_UGRD_0_01.xml
+2026-01-06 14:16:58,809 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,809 | INFO | Procesando archivo: ETAC_02_150437_00000330558_UGRD_0_01.xml
+2026-01-06 14:16:58,809 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,809 | INFO | Procesando archivo: ETAC_02_150437_00000336446_UGRD_0_01.xml
+2026-01-06 14:16:58,809 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,809 | INFO | Procesando archivo: ETAC_02_150437_00000339009_UGRD_0_01.xml
+2026-01-06 14:16:58,809 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,809 | INFO | Procesando archivo: ETAC_02_150437_00000346110_UGRD_0_01.xml
+2026-01-06 14:16:58,809 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,810 | INFO | Procesando archivo: ETAC_02_150437_00000364039_UGRD_0_01.xml
+2026-01-06 14:16:58,810 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,810 | INFO | Procesando archivo: ETAC_02_150437_00000373137_UGRD_0_01.xml
+2026-01-06 14:16:58,810 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,810 | INFO | Procesando archivo: ETAC_02_150437_00000376989_UGRD_0_02.xml
+2026-01-06 14:16:58,810 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,810 | INFO | Procesando archivo: ETAC_02_150437_00000377146_UGRD_0_01.xml
+2026-01-06 14:16:58,810 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,810 | INFO | Procesando archivo: ETAC_02_150437_00000378509_UGRD_0_01.xml
+2026-01-06 14:16:58,810 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,810 | INFO | Procesando archivo: ETAC_02_150437_00000383341_UGRD_1_01.xml
+2026-01-06 14:16:58,810 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,811 | INFO | Procesando archivo: ETAC_02_150437_00000384144_UGRD_0_01.xml
+2026-01-06 14:16:58,811 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,811 | INFO | Procesando archivo: ETAC_02_150437_00000384261_UGRD_0_01.xml
+2026-01-06 14:16:58,811 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,811 | INFO | Procesando archivo: ETAC_02_150437_00000384624_UGRD_0_01.xml
+2026-01-06 14:16:58,811 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,811 | INFO | Procesando archivo: ETAC_02_150437_00000385151_UGRD_0_01.xml
+2026-01-06 14:16:58,811 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,811 | INFO | Procesando archivo: ETAV_05_150437_00000228491_MSTV_0_01.xml
+2026-01-06 14:16:58,811 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,812 | INFO | Procesando archivo: ETAV_05_150437_00000245915_MSTV_1_01.xml
+2026-01-06 14:16:58,812 | INFO | 📑 Nombre de hoja generado: PAQ. T-221111 Hoja 1
+2026-01-06 14:16:58,812 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-232794
+2026-01-06 14:16:58,812 | INFO | Procesando archivo: UTNSL_03_010161_00000278442_UGRD_1_01.xml
+2026-01-06 14:16:58,812 | INFO | 📑 Nombre de hoja generado: PAQ. T-232794 Hoja 1
+2026-01-06 14:16:58,812 | INFO | Procesando archivo: UTNSL_03_010161_00000347835_UGRD_0_01.xml
+2026-01-06 14:16:58,812 | INFO | 📑 Nombre de hoja generado: PAQ. T-232794 Hoja 1
+2026-01-06 14:16:58,812 | INFO | Procesando archivo: UTNSL_03_010161_00000354743_UGRD_0_01.xml
+2026-01-06 14:16:58,812 | INFO | 📑 Nombre de hoja generado: PAQ. T-232794 Hoja 1
+2026-01-06 14:16:58,813 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-221173
+2026-01-06 14:16:58,813 | INFO | Procesando archivo: B2B_06_150901_00000365169_MSTV_0_01.xml
+2026-01-06 14:16:58,813 | INFO | 📑 Nombre de hoja generado: PAQ. T-221173 Hoja 1
+2026-01-06 14:16:58,813 | INFO | Procesando archivo: B2B_06_150901_00000387234_MSTV_0_02.xml
+2026-01-06 14:16:58,813 | INFO | 📑 Nombre de hoja generado: PAQ. T-221173 Hoja 1
+2026-01-06 14:16:58,814 | INFO | Procesando archivo: ETAV_05_150901_00000344094_MSTV_0_01.xml
+2026-01-06 14:16:58,814 | INFO | 📑 Nombre de hoja generado: PAQ. T-221173 Hoja 1
+2026-01-06 14:16:58,814 | INFO | Procesando archivo: ONALT_01_150901_00000299208_MSTV_1_01.xml
+2026-01-06 14:16:58,814 | INFO | 📑 Nombre de hoja generado: PAQ. T-221173 Hoja 1
+2026-01-06 14:16:58,814 | INFO | Procesando archivo: ONALT_03_010157_00000266466_UGRV_0_01.xml
+2026-01-06 14:16:58,814 | INFO | 📑 Nombre de hoja generado: PAQ. T-221173 Hoja 1
+2026-01-06 14:16:58,814 | INFO | Procesando archivo: ONALT_05_010161_00000318372_UGRV_0_02.xml
+2026-01-06 14:16:58,814 | INFO | 📑 Nombre de hoja generado: PAQ. T-221173 Hoja 1
+2026-01-06 14:16:58,815 | INFO | Procesando archivo: UNEAS_01_010157_00000355306_MSTR_0_02.xml
+2026-01-06 14:16:58,815 | INFO | 📑 Nombre de hoja generado: PAQ. T-221173 Hoja 1
+2026-01-06 14:16:58,815 | INFO | Procesando archivo: UNEAS_01_010157_00000362614_MSTR_0_03.xml
+2026-01-06 14:16:58,815 | INFO | 📑 Nombre de hoja generado: PAQ. T-221173 Hoja 1
+2026-01-06 14:16:58,815 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-228690
+2026-01-06 14:16:58,815 | INFO | Procesando archivo: POLOS_01_150901_00000224495_UGRV_0_01.xml
+2026-01-06 14:16:58,815 | INFO | 📑 Nombre de hoja generado: PAQ. T-228690 Hoja 1
+2026-01-06 14:16:58,815 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-215984
+2026-01-06 14:16:58,816 | INFO | Procesando archivo: POLOS_37_010157_00000290150_UGRV_1_01.xml
+2026-01-06 14:16:58,816 | INFO | 📑 Nombre de hoja generado: PAQ. T-215984 Hoja 1
+2026-01-06 14:16:58,816 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-229917
+2026-01-06 14:16:58,816 | INFO | Procesando archivo: B2B_12_150901_00000339488_UGRV_0_01.xml
+2026-01-06 14:16:58,816 | INFO | 📑 Nombre de hoja generado: PAQ. T-229917 Hoja 1
+2026-01-06 14:16:58,816 | INFO | Procesando archivo: ONALT_01_150901_00000313144_UGRV_0_01.xml
+2026-01-06 14:16:58,816 | INFO | 📑 Nombre de hoja generado: PAQ. T-229917 Hoja 1
+2026-01-06 14:16:58,816 | INFO | Procesando archivo: ONALT_01_150901_00000338350_UGRV_0_01.xml
+2026-01-06 14:16:58,816 | INFO | 📑 Nombre de hoja generado: PAQ. T-229917 Hoja 1
+2026-01-06 14:16:58,817 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-228665
+2026-01-06 14:16:58,817 | INFO | Procesando archivo: POLOS_36_010157_00000329555_UGRV_0_01.xml
+2026-01-06 14:16:58,817 | INFO | 📑 Nombre de hoja generado: PAQ. T-228665 Hoja 1
+2026-01-06 14:16:58,817 | INFO | Procesando archivo: POLOS_37_010157_00000334074_UGRV_0_01.xml
+2026-01-06 14:16:58,817 | INFO | 📑 Nombre de hoja generado: PAQ. T-228665 Hoja 1
+2026-01-06 14:16:58,818 | INFO | Procesando archivo: POLOS_37_010157_00000335188_UGRV_0_02.xml
+2026-01-06 14:16:58,818 | INFO | 📑 Nombre de hoja generado: PAQ. T-228665 Hoja 1
+2026-01-06 14:16:58,818 | INFO | Procesando archivo: POLOS_37_010157_00000336613_UGRV_0_01.xml
+2026-01-06 14:16:58,818 | INFO | 📑 Nombre de hoja generado: PAQ. T-228665 Hoja 1
+2026-01-06 14:16:58,818 | INFO | Procesando archivo: POLOS_37_010157_00000337916_UGRV_0_01.xml
+2026-01-06 14:16:58,818 | INFO | 📑 Nombre de hoja generado: PAQ. T-228665 Hoja 1
+2026-01-06 14:16:58,818 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-228691
+2026-01-06 14:16:58,819 | INFO | Procesando archivo: UTNSL_02_010161_00000330509_UGRD_0_01.xml
+2026-01-06 14:16:58,819 | INFO | 📑 Nombre de hoja generado: PAQ. T-228691 Hoja 1
+2026-01-06 14:16:58,819 | INFO | Procesando archivo: UTNSL_02_010161_00000343044_UGRD_0_01.xml
+2026-01-06 14:16:58,819 | INFO | 📑 Nombre de hoja generado: PAQ. T-228691 Hoja 1
+2026-01-06 14:16:58,819 | INFO | Procesando archivo: UTNSL_02_010161_00000362077_UGRD_0_01.xml
+2026-01-06 14:16:58,819 | INFO | 📑 Nombre de hoja generado: PAQ. T-228691 Hoja 1
+2026-01-06 14:16:58,819 | INFO | Procesando archivo: UTNSL_02_010161_00000366986_UGRD_0_01.xml
+2026-01-06 14:16:58,819 | INFO | 📑 Nombre de hoja generado: PAQ. T-228691 Hoja 1
+2026-01-06 14:16:58,819 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-228662
+2026-01-06 14:16:58,819 | INFO | Procesando archivo: B2B_06_150901_00000343711_UGRV_0_01.xml
+2026-01-06 14:16:58,819 | INFO | 📑 Nombre de hoja generado: PAQ. T-228662 Hoja 1
+2026-01-06 14:16:58,820 | INFO | Procesando archivo: ETAV_05_150901_00000332023_MSTV_1_01.xml
+2026-01-06 14:16:58,820 | INFO | 📑 Nombre de hoja generado: PAQ. T-228662 Hoja 1
+2026-01-06 14:16:58,820 | INFO | Procesando archivo: ETAV_05_150901_00000353808_MSTV_0_01.xml
+2026-01-06 14:16:58,820 | INFO | 📑 Nombre de hoja generado: PAQ. T-228662 Hoja 1
+2026-01-06 14:16:58,821 | INFO | Procesando archivo: ONALT_01_150901_00000018272_UGRV_0_01.xml
+2026-01-06 14:16:58,821 | INFO | 📑 Nombre de hoja generado: PAQ. T-228662 Hoja 1
+2026-01-06 14:16:58,821 | INFO | Procesando archivo: ONALT_01_150901_00000376830_MSTV_0_01.xml
+2026-01-06 14:16:58,821 | INFO | 📑 Nombre de hoja generado: PAQ. T-228662 Hoja 1
+2026-01-06 14:16:58,821 | INFO | Procesando archivo: ONALT_03_010157_00000346108_UGRV_0_01.xml
+2026-01-06 14:16:58,821 | INFO | 📑 Nombre de hoja generado: PAQ. T-228662 Hoja 1
+2026-01-06 14:16:58,821 | INFO | Procesando archivo: ONALT_03_010157_00000385775_UGRV_0_01.xml
+2026-01-06 14:16:58,821 | INFO | 📑 Nombre de hoja generado: PAQ. T-228662 Hoja 1
+2026-01-06 14:16:58,821 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-229918
+2026-01-06 14:16:58,821 | INFO | Procesando archivo: ETAC_06_150901_00000307313_UGRD_3_01.xml
+2026-01-06 14:16:58,821 | INFO | 📑 Nombre de hoja generado: PAQ. T-229918 Hoja 1
+2026-01-06 14:16:58,822 | INFO | Procesando archivo: ETAC_06_150901_00000338698_UGRD_0_01.xml
+2026-01-06 14:16:58,822 | INFO | 📑 Nombre de hoja generado: PAQ. T-229918 Hoja 1
+2026-01-06 14:16:58,822 | INFO | Procesando archivo: ETAC_06_150901_00000339191_UGRD_0_01.xml
+2026-01-06 14:16:58,822 | INFO | 📑 Nombre de hoja generado: PAQ. T-229918 Hoja 1
+2026-01-06 14:16:58,822 | INFO | Procesando archivo: ETAC_06_150901_00000340068_UGRD_0_01.xml
+2026-01-06 14:16:58,822 | INFO | 📑 Nombre de hoja generado: PAQ. T-229918 Hoja 1
+2026-01-06 14:16:58,822 | INFO | Procesando archivo: ETAC_06_150901_00000340582_UGRD_0_01.xml
+2026-01-06 14:16:58,822 | INFO | 📑 Nombre de hoja generado: PAQ. T-229918 Hoja 1
+2026-01-06 14:16:58,822 | INFO | Procesando archivo: ETAC_06_150901_00000340771_UGRD_0_01.xml
+2026-01-06 14:16:58,822 | INFO | 📑 Nombre de hoja generado: PAQ. T-229918 Hoja 1
+2026-01-06 14:16:58,823 | INFO | Procesando archivo: ETAC_06_150901_00000341122_UGRD_0_01.xml
+2026-01-06 14:16:58,823 | INFO | 📑 Nombre de hoja generado: PAQ. T-229918 Hoja 1
+2026-01-06 14:16:58,823 | INFO | Procesando archivo: ETAC_06_150901_00000341180_UGRD_1_01.xml
+2026-01-06 14:16:58,823 | INFO | 📑 Nombre de hoja generado: PAQ. T-229918 Hoja 1
+2026-01-06 14:16:58,823 | INFO | Procesando archivo: ETAC_06_150901_00000342552_UGRD_0_01.xml
+2026-01-06 14:16:58,823 | INFO | 📑 Nombre de hoja generado: PAQ. T-229918 Hoja 1
+2026-01-06 14:16:58,823 | INFO | Procesando archivo: ETAC_06_150901_00000342580_UGRD_0_01.xml
+2026-01-06 14:16:58,823 | INFO | 📑 Nombre de hoja generado: PAQ. T-229918 Hoja 1
+2026-01-06 14:16:58,823 | INFO | Procesando archivo: ETAC_06_150901_00000347221_UGRD_0_01.xml
+2026-01-06 14:16:58,823 | INFO | 📑 Nombre de hoja generado: PAQ. T-229918 Hoja 1
+2026-01-06 14:16:58,824 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-220065
+2026-01-06 14:16:58,824 | INFO | Procesando archivo: ONALT_04_150909_00000071469_UGRV_1_01.xml
+2026-01-06 14:16:58,824 | INFO | 📑 Nombre de hoja generado: PAQ. T-220065 Hoja 1
+2026-01-06 14:16:58,824 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-227240
+2026-01-06 14:16:58,824 | INFO | Procesando archivo: ETAV_05_150437_00000196473_UGRV_0_01.xml
+2026-01-06 14:16:58,824 | INFO | 📑 Nombre de hoja generado: PAQ. T-227240 Hoja 1
+2026-01-06 14:16:58,824 | INFO | Procesando archivo: ETAV_05_150437_00000264585_MSTV_0_01.xml
+2026-01-06 14:16:58,825 | INFO | 📑 Nombre de hoja generado: PAQ. T-227240 Hoja 1
+2026-01-06 14:16:58,825 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-229435
+2026-01-06 14:16:58,825 | INFO | Procesando archivo: .DS_Store
+2026-01-06 14:16:58,825 | INFO | Procesando archivo: ETAC_06_150901_00000327997_UGRD_0_01.xml
+2026-01-06 14:16:58,825 | INFO | 📑 Nombre de hoja generado: PAQ. T-229435 Hoja 1
+2026-01-06 14:16:58,825 | INFO | Procesando archivo: ETAC_06_150901_00000329621_UGRD_0_01.xml
+2026-01-06 14:16:58,825 | INFO | 📑 Nombre de hoja generado: PAQ. T-229435 Hoja 1
+2026-01-06 14:16:58,825 | INFO | Procesando archivo: ETAC_06_150901_00000331771_UGRD_0_01.xml
+2026-01-06 14:16:58,825 | INFO | 📑 Nombre de hoja generado: PAQ. T-229435 Hoja 1
+2026-01-06 14:16:58,825 | INFO | Procesando archivo: ETAC_06_150901_00000333803_UGRD_0_01.xml
+2026-01-06 14:16:58,825 | INFO | 📑 Nombre de hoja generado: PAQ. T-229435 Hoja 1
+2026-01-06 14:16:58,826 | INFO | Procesando archivo: ETAC_06_150901_00000337959_UGRD_0_01.xml
+2026-01-06 14:16:58,826 | INFO | 📑 Nombre de hoja generado: PAQ. T-229435 Hoja 1
+2026-01-06 14:16:58,826 | INFO | Procesando archivo: ETAC_06_150901_00000339406_UGRD_0_01.xml
+2026-01-06 14:16:58,826 | INFO | 📑 Nombre de hoja generado: PAQ. T-229435 Hoja 1
+2026-01-06 14:16:58,826 | INFO | Procesando archivo: ETAC_06_150901_00000342565_UGRD_0_01.xml
+2026-01-06 14:16:58,826 | INFO | 📑 Nombre de hoja generado: PAQ. T-229435 Hoja 1
+2026-01-06 14:16:58,826 | INFO | Procesando archivo: ETAC_06_150901_00000342675_UGRD_0_01.xml
+2026-01-06 14:16:58,826 | INFO | 📑 Nombre de hoja generado: PAQ. T-229435 Hoja 1
+2026-01-06 14:16:58,826 | INFO | Procesando archivo: ETAC_06_150901_00000343188_UGRD_0_01.xml
+2026-01-06 14:16:58,826 | INFO | 📑 Nombre de hoja generado: PAQ. T-229435 Hoja 1
+2026-01-06 14:16:58,826 | INFO | Procesando archivo: ETAC_06_150901_00000346745_UGRD_0_01.xml
+2026-01-06 14:16:58,826 | INFO | 📑 Nombre de hoja generado: PAQ. T-229435 Hoja 1
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: ETAC_06_150901_00000347494_UGRD_0_01.xml
+2026-01-06 14:16:58,827 | INFO | 📑 Nombre de hoja generado: PAQ. T-229435 Hoja 1
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: ETAC_06_150901_00000349497_UGRD_0_01.xml
+2026-01-06 14:16:58,827 | INFO | 📑 Nombre de hoja generado: PAQ. T-229435 Hoja 1
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: ETAC_06_150901_00000352675_UGRD_0_01.xml
+2026-01-06 14:16:58,827 | INFO | 📑 Nombre de hoja generado: PAQ. T-229435 Hoja 1
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: ETAC_06_150901_00000354579_UGRD_0_01.xml
+2026-01-06 14:16:58,827 | INFO | 📑 Nombre de hoja generado: PAQ. T-229435 Hoja 1
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-230784
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-231435
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-231456
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-231461
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-231464
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-231470
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-231488
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-231492
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-231873
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-231879
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-231894
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-231895
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-231898
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-231899
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-232779
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-232794
+2026-01-06 14:16:58,827 | INFO | Procesando archivo: PAQ. T-233363
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-233383
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-233384
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-234194
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-234195
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-234196
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-234197
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235017
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235019
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235021
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235022
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235026
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235027
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235029
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235031
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235453
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235454
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235455
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235456
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235457
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235483
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235484
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235486
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-235487
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-236348
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-236352
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-236825
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-237737
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: PAQ. T-237753
+2026-01-06 14:16:58,828 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-224924
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: ETAC_03_150901_00000352216_UGRD_0_01.xml
+2026-01-06 14:16:58,828 | INFO | 📑 Nombre de hoja generado: PAQ. T-224924 Hoja 1
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: ETAC_04_150901_00000159976_UGRD_1_01.xml
+2026-01-06 14:16:58,828 | INFO | 📑 Nombre de hoja generado: PAQ. T-224924 Hoja 1
+2026-01-06 14:16:58,828 | INFO | Procesando archivo: POLOS_01_150901_00000358659_UGRV_0_01.xml
+2026-01-06 14:16:58,828 | INFO | 📑 Nombre de hoja generado: PAQ. T-224924 Hoja 1
+2026-01-06 14:16:58,829 | INFO | Procesando archivo: POLOS_36_010157_00000325944_UGRV_0_01.xml
+2026-01-06 14:16:58,829 | INFO | 📑 Nombre de hoja generado: PAQ. T-224924 Hoja 1
+2026-01-06 14:16:58,829 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-229899
+2026-01-06 14:16:58,829 | INFO | Procesando archivo: UVGCM_01_010162_00000324359_UGRD_1_01.xml
+2026-01-06 14:16:58,829 | INFO | 📑 Nombre de hoja generado: PAQ. T-229899 Hoja 1
+2026-01-06 14:16:58,829 | INFO | Procesando archivo: UVGCM_01_010162_00000324725_UGRD_1_01.xml
+2026-01-06 14:16:58,829 | INFO | 📑 Nombre de hoja generado: PAQ. T-229899 Hoja 1
+2026-01-06 14:16:58,830 | INFO | Procesando archivo: UVGCM_01_010162_00000324763_UGRD_1_01.xml
+2026-01-06 14:16:58,830 | INFO | 📑 Nombre de hoja generado: PAQ. T-229899 Hoja 1
+2026-01-06 14:16:58,830 | INFO | Procesando archivo: UVGCM_01_010162_00000326514_UGRD_1_01.xml
+2026-01-06 14:16:58,830 | INFO | 📑 Nombre de hoja generado: PAQ. T-229899 Hoja 1
+2026-01-06 14:16:58,830 | INFO | Procesando archivo: UVGCM_01_010162_00000328107_UGRD_1_01.xml
+2026-01-06 14:16:58,830 | INFO | 📑 Nombre de hoja generado: PAQ. T-229899 Hoja 1
+2026-01-06 14:16:58,830 | INFO | Procesando archivo: UVGCM_01_010162_00000330959_UGRD_1_01.xml
+2026-01-06 14:16:58,830 | INFO | 📑 Nombre de hoja generado: PAQ. T-229899 Hoja 1
+2026-01-06 14:16:58,830 | INFO | Procesando archivo: UVGCM_01_010162_00000340012_UGRD_1_02.xml
+2026-01-06 14:16:58,830 | INFO | 📑 Nombre de hoja generado: PAQ. T-229899 Hoja 1
+2026-01-06 14:16:58,830 | INFO | Procesando archivo: UVGCM_01_010162_00000340345_UGRD_0_01.xml
+2026-01-06 14:16:58,830 | INFO | 📑 Nombre de hoja generado: PAQ. T-229899 Hoja 1
+2026-01-06 14:16:58,831 | INFO | Procesando archivo: UVGCM_01_010162_00000343779_UGRD_1_01.xml
+2026-01-06 14:16:58,831 | INFO | 📑 Nombre de hoja generado: PAQ. T-229899 Hoja 1
+2026-01-06 14:16:58,831 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-231895
+2026-01-06 14:16:58,831 | INFO | Procesando archivo: ETAC_06_150901_00000350759_UGRD_0_01.xml
+2026-01-06 14:16:58,831 | INFO | 📑 Nombre de hoja generado: PAQ. T-231895 Hoja 1
+2026-01-06 14:16:58,831 | INFO | Procesando archivo: ETAC_06_150901_00000350836_UGRD_0_01.xml
+2026-01-06 14:16:58,831 | INFO | 📑 Nombre de hoja generado: PAQ. T-231895 Hoja 1
+2026-01-06 14:16:58,831 | INFO | Procesando archivo: ETAC_06_150901_00000357383_UGRD_0_01.xml
+2026-01-06 14:16:58,831 | INFO | 📑 Nombre de hoja generado: PAQ. T-231895 Hoja 1
+2026-01-06 14:16:58,831 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-229432
+2026-01-06 14:16:58,832 | INFO | Procesando archivo: UNEAQ_01_010157_00000337626_UGRD_0_01.xml
+2026-01-06 14:16:58,832 | INFO | 📑 Nombre de hoja generado: PAQ. T-229432 Hoja 1
+2026-01-06 14:16:58,832 | INFO | Procesando archivo: UNEAQ_01_010157_00000345526_UGRD_0_01.xml
+2026-01-06 14:16:58,832 | INFO | 📑 Nombre de hoja generado: PAQ. T-229432 Hoja 1
+2026-01-06 14:16:58,832 | INFO | Procesando archivo: UNEAQ_01_010157_00000346540_UGRD_0_01.xml
+2026-01-06 14:16:58,832 | INFO | 📑 Nombre de hoja generado: PAQ. T-229432 Hoja 1
+2026-01-06 14:16:58,832 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-229897
+2026-01-06 14:16:58,832 | INFO | Procesando archivo: ONALT_02_010162_00000317607_UGRV_0_01.xml
+2026-01-06 14:16:58,832 | INFO | 📑 Nombre de hoja generado: PAQ. T-229897 Hoja 1
+2026-01-06 14:16:58,833 | INFO | Procesando archivo: ONALT_02_010162_00000323469_UGRV_0_01.xml
+2026-01-06 14:16:58,833 | INFO | 📑 Nombre de hoja generado: PAQ. T-229897 Hoja 1
+2026-01-06 14:16:58,833 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-226276
+2026-01-06 14:16:58,833 | INFO | Procesando archivo: UVGCE_01_010162_00000358948_MSTR_0_02.xml
+2026-01-06 14:16:58,833 | INFO | 📑 Nombre de hoja generado: PAQ. T-226276 Hoja 1
+2026-01-06 14:16:58,833 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-227196
+2026-01-06 14:16:58,833 | INFO | Procesando archivo: B2B_06_150901_00000228452_UGRV_0_01.xml
+2026-01-06 14:16:58,833 | INFO | 📑 Nombre de hoja generado: PAQ. T-227196 Hoja 1
+2026-01-06 14:16:58,833 | INFO | Procesando archivo: B2B_06_150901_00000314588_UGRV_0_01.xml
+2026-01-06 14:16:58,833 | INFO | 📑 Nombre de hoja generado: PAQ. T-227196 Hoja 1
+2026-01-06 14:16:58,834 | INFO | Procesando archivo: B2B_06_150901_00000357834_MSTV_0_01.xml
+2026-01-06 14:16:58,834 | INFO | 📑 Nombre de hoja generado: PAQ. T-227196 Hoja 1
+2026-01-06 14:16:58,834 | INFO | Procesando archivo: B2B_06_150901_00000373330_MSTV_0_01.xml
+2026-01-06 14:16:58,834 | INFO | 📑 Nombre de hoja generado: PAQ. T-227196 Hoja 1
+2026-01-06 14:16:58,834 | INFO | Procesando archivo: ETAV_05_150901_00000345194_MSTV_1_01.xml
+2026-01-06 14:16:58,834 | INFO | 📑 Nombre de hoja generado: PAQ. T-227196 Hoja 1
+2026-01-06 14:16:58,834 | INFO | Procesando archivo: ETAV_05_150901_00000351221_MSTV_1_01.xml
+2026-01-06 14:16:58,834 | INFO | 📑 Nombre de hoja generado: PAQ. T-227196 Hoja 1
+2026-01-06 14:16:58,834 | INFO | Procesando archivo: ONALT_01_150901_00000248612_UGRV_0_01.xml
+2026-01-06 14:16:58,834 | INFO | 📑 Nombre de hoja generado: PAQ. T-227196 Hoja 1
+2026-01-06 14:16:58,834 | INFO | Procesando archivo: ONALT_01_150901_00000302757_UGRV_1_01.xml
+2026-01-06 14:16:58,834 | INFO | 📑 Nombre de hoja generado: PAQ. T-227196 Hoja 1
+2026-01-06 14:16:58,835 | INFO | Procesando archivo: ONALT_01_150901_00000307388_UGRV_0_01.xml
+2026-01-06 14:16:58,835 | INFO | 📑 Nombre de hoja generado: PAQ. T-227196 Hoja 1
+2026-01-06 14:16:58,835 | INFO | Procesando archivo: ONALT_01_150901_00000316592_UGRV_0_01.xml
+2026-01-06 14:16:58,835 | INFO | 📑 Nombre de hoja generado: PAQ. T-227196 Hoja 1
+2026-01-06 14:16:58,835 | INFO | Procesando archivo: ONALT_01_150901_00000381226_MSTV_1_01.xml
+2026-01-06 14:16:58,835 | INFO | 📑 Nombre de hoja generado: PAQ. T-227196 Hoja 1
+2026-01-06 14:16:58,835 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-235453
+2026-01-06 14:16:58,835 | INFO | Procesando archivo: B2B_06_150901_00000160308_MSTV_1_01.xml
+2026-01-06 14:16:58,835 | INFO | 📑 Nombre de hoja generado: PAQ. T-235453 Hoja 1
+2026-01-06 14:16:58,835 | INFO | Procesando archivo: B2B_06_150901_00000354313_UGRV_0_01.xml
+2026-01-06 14:16:58,835 | INFO | 📑 Nombre de hoja generado: PAQ. T-235453 Hoja 1
+2026-01-06 14:16:58,836 | INFO | Procesando archivo: ONALT_01_150901_00000344778_UGRV_0_01.xml
+2026-01-06 14:16:58,836 | INFO | 📑 Nombre de hoja generado: PAQ. T-235453 Hoja 1
+2026-01-06 14:16:58,836 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-230783
+2026-01-06 14:16:58,836 | INFO | Procesando archivo: UVGCE_01_010162_00000218770_MSTR_0_01.xml
+2026-01-06 14:16:58,836 | INFO | 📑 Nombre de hoja generado: PAQ. T-230783 Hoja 1
+2026-01-06 14:16:58,837 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-230784
+2026-01-06 14:16:58,837 | INFO | Procesando archivo: ONALT_02_010162_00000305807_UGRV_0_01.xml
+2026-01-06 14:16:58,837 | INFO | 📑 Nombre de hoja generado: PAQ. T-230784 Hoja 1
+2026-01-06 14:16:58,837 | INFO | Procesando archivo: ONALT_02_010162_00000340867_UGRV_0_01.xml
+2026-01-06 14:16:58,837 | INFO | 📑 Nombre de hoja generado: PAQ. T-230784 Hoja 1
+2026-01-06 14:16:58,838 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-231464
+2026-01-06 14:16:58,838 | INFO | Procesando archivo: ETAC_06_150901_00000337550_UGRD_0_01.xml
+2026-01-06 14:16:58,838 | INFO | 📑 Nombre de hoja generado: PAQ. T-231464 Hoja 1
+2026-01-06 14:16:58,838 | INFO | Procesando archivo: ETAC_06_150901_00000346633_UGRD_0_01.xml
+2026-01-06 14:16:58,838 | INFO | 📑 Nombre de hoja generado: PAQ. T-231464 Hoja 1
+2026-01-06 14:16:58,838 | INFO | Procesando archivo: ETAC_06_150901_00000350471_UGRD_0_01.xml
+2026-01-06 14:16:58,838 | INFO | 📑 Nombre de hoja generado: PAQ. T-231464 Hoja 1
+2026-01-06 14:16:58,838 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-227191
+2026-01-06 14:16:58,838 | INFO | Procesando archivo: POLOS_36_010157_00000315048_UGRV_1_01.xml
+2026-01-06 14:16:58,838 | INFO | 📑 Nombre de hoja generado: PAQ. T-227191 Hoja 1
+2026-01-06 14:16:58,839 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-235454
+2026-01-06 14:16:58,839 | INFO | Procesando archivo: B2B_10_010161_00000386378_MSTV_0_01.xml
+2026-01-06 14:16:58,839 | INFO | 📑 Nombre de hoja generado: PAQ. T-235454 Hoja 1
+2026-01-06 14:16:58,839 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-226271
+2026-01-06 14:16:58,839 | INFO | Procesando archivo: ETAC_03_010162_00000020498_MSTR_0_01.xml
+2026-01-06 14:16:58,839 | INFO | 📑 Nombre de hoja generado: PAQ. T-226271 Hoja 1
+2026-01-06 14:16:58,839 | INFO | Procesando archivo: ETAC_03_010162_00000121429_MSTR_0_01.xml
+2026-01-06 14:16:58,839 | INFO | 📑 Nombre de hoja generado: PAQ. T-226271 Hoja 1
+2026-01-06 14:16:58,839 | INFO | Procesando archivo: ETAC_03_010162_00000156472_MSTR_0_02.xml
+2026-01-06 14:16:58,839 | INFO | 📑 Nombre de hoja generado: PAQ. T-226271 Hoja 1
+2026-01-06 14:16:58,840 | INFO | Procesando archivo: ETAC_03_010162_09000003794_MSTR_0_01.xml
+2026-01-06 14:16:58,840 | INFO | 📑 Nombre de hoja generado: PAQ. T-226271 Hoja 1
+2026-01-06 14:16:58,840 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-227198
+2026-01-06 14:16:58,840 | INFO | Procesando archivo: UVGCE_01_010162_00000388633_MSTR_0_01.xml
+2026-01-06 14:16:58,840 | INFO | 📑 Nombre de hoja generado: PAQ. T-227198 Hoja 1
+2026-01-06 14:16:58,840 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-230574
+2026-01-06 14:16:58,840 | INFO | Procesando archivo: UNEAQ_01_010157_00000272149_UGRD_0_02.xml
+2026-01-06 14:16:58,840 | INFO | 📑 Nombre de hoja generado: PAQ. T-230574 Hoja 1
+2026-01-06 14:16:58,840 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-218928
+2026-01-06 14:16:58,840 | INFO | Procesando archivo: ONALT_03_010157_00000235722_UGRV_0_03.xml
+2026-01-06 14:16:58,840 | INFO | 📑 Nombre de hoja generado: PAQ. T-218928 Hoja 1
+2026-01-06 14:16:58,841 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-223369
+2026-01-06 14:16:58,841 | INFO | Procesando archivo: B2B_06_150901_00000338590_UGRV_0_01.xml
+2026-01-06 14:16:58,841 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,841 | INFO | Procesando archivo: B2B_11_010157_00000330203_MSTV_0_01.xml
+2026-01-06 14:16:58,841 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,841 | INFO | Procesando archivo: ETAC_04_150901_00000328804_UGRD_0_01.xml
+2026-01-06 14:16:58,841 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,842 | INFO | Procesando archivo: ETAC_04_150901_00000340115_UGRD_0_01.xml
+2026-01-06 14:16:58,842 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,842 | INFO | Procesando archivo: ETAC_04_150901_00000340651_UGRD_0_01.xml
+2026-01-06 14:16:58,842 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,842 | INFO | Procesando archivo: ETAC_04_150901_00000342544_UGRD_0_01.xml
+2026-01-06 14:16:58,842 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,842 | INFO | Procesando archivo: ETAC_04_150901_00000344768_UGRD_0_01.xml
+2026-01-06 14:16:58,842 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,842 | INFO | Procesando archivo: ETAC_04_150901_00000350051_UGRD_0_01.xml
+2026-01-06 14:16:58,842 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,843 | INFO | Procesando archivo: ETAC_04_150901_00000350868_UGRD_0_01.xml
+2026-01-06 14:16:58,843 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,843 | INFO | Procesando archivo: ETAC_04_150901_00000364428_UGRD_0_01.xml
+2026-01-06 14:16:58,843 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,843 | INFO | Procesando archivo: ETAC_04_150901_00000378707_MSTR_0_01.xml
+2026-01-06 14:16:58,843 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,843 | INFO | Procesando archivo: ETAC_04_150901_00000379969_MSTR_0_01.xml
+2026-01-06 14:16:58,843 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,843 | INFO | Procesando archivo: ETAC_04_150901_00000380135_MSTR_0_02.xml
+2026-01-06 14:16:58,843 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,844 | INFO | Procesando archivo: ETAV_05_150901_00000233811_MSTV_0_01.xml
+2026-01-06 14:16:58,844 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,844 | INFO | Procesando archivo: ETAV_05_150901_00000331124_MSTV_1_01.xml
+2026-01-06 14:16:58,844 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,844 | INFO | Procesando archivo: ETAV_05_150901_00000351221_MSTV_0_01.xml
+2026-01-06 14:16:58,844 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,844 | INFO | Procesando archivo: ONALT_01_150901_00000344701_UGRV_1_01.xml
+2026-01-06 14:16:58,844 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,844 | INFO | Procesando archivo: ONALT_03_010157_00000294080_UGRV_0_03.xml
+2026-01-06 14:16:58,844 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,844 | INFO | Procesando archivo: ONALT_05_010161_00000305656_UGRV_0_02.xml
+2026-01-06 14:16:58,844 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,844 | INFO | Procesando archivo: POLOS_01_150901_00000255877_UGRV_0_01.xml
+2026-01-06 14:16:58,844 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,845 | INFO | Procesando archivo: POLOS_01_150901_00000319052_UGRV_0_01.xml
+2026-01-06 14:16:58,845 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,845 | INFO | Procesando archivo: POLOS_01_150901_00000333984_UGRV_0_01.xml
+2026-01-06 14:16:58,845 | INFO | 📑 Nombre de hoja generado: PAQ. T-223369 Hoja 1
+2026-01-06 14:16:58,845 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-236825
+2026-01-06 14:16:58,845 | INFO | Procesando archivo: UTNSL_04_010161_00000165549_MSTR_1_02.xml
+2026-01-06 14:16:58,845 | INFO | 📑 Nombre de hoja generado: PAQ. T-236825 Hoja 1
+2026-01-06 14:16:58,845 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-216846
+2026-01-06 14:16:58,845 | INFO | Procesando archivo: ONALT_03_010157_00000366328_UGRV_1_02.xml
+2026-01-06 14:16:58,845 | INFO | 📑 Nombre de hoja generado: PAQ. T-216846 Hoja 1
+2026-01-06 14:16:58,846 | INFO | Procesando archivo: ONALT_03_010157_00000366363_UGRV_0_03.xml
+2026-01-06 14:16:58,846 | INFO | 📑 Nombre de hoja generado: PAQ. T-216846 Hoja 1
+2026-01-06 14:16:58,846 | INFO | Procesando archivo: ONALT_03_010157_00000370756_UGRV_2_02.xml
+2026-01-06 14:16:58,846 | INFO | 📑 Nombre de hoja generado: PAQ. T-216846 Hoja 1
+2026-01-06 14:16:58,846 | INFO | Procesando archivo: ONALT_03_010157_00000387287_UGRV_0_01.xml
+2026-01-06 14:16:58,846 | INFO | 📑 Nombre de hoja generado: PAQ. T-216846 Hoja 1
+2026-01-06 14:16:58,847 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-222042
+2026-01-06 14:16:58,847 | INFO | Procesando archivo: B2B_06_150901_00000004983_MSTV_1_01.xml
+2026-01-06 14:16:58,847 | INFO | 📑 Nombre de hoja generado: PAQ. T-222042 Hoja 1
+2026-01-06 14:16:58,847 | INFO | Procesando archivo: B2B_06_150901_00000368560_MSTV_0_01.xml
+2026-01-06 14:16:58,847 | INFO | 📑 Nombre de hoja generado: PAQ. T-222042 Hoja 1
+2026-01-06 14:16:58,847 | INFO | Procesando archivo: ETAV_05_150901_00000345194_MSTV_0_01.xml
+2026-01-06 14:16:58,847 | INFO | 📑 Nombre de hoja generado: PAQ. T-222042 Hoja 1
+2026-01-06 14:16:58,848 | INFO | Procesando archivo: ONALT_02_010162_00000297211_UGRV_0_02.xml
+2026-01-06 14:16:58,848 | INFO | 📑 Nombre de hoja generado: PAQ. T-222042 Hoja 1
+2026-01-06 14:16:58,848 | INFO | Procesando archivo: UNEAS_01_010157_00000353754_MSTR_0_03.xml
+2026-01-06 14:16:58,848 | INFO | 📑 Nombre de hoja generado: PAQ. T-222042 Hoja 1
+2026-01-06 14:16:58,848 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-229896
+2026-01-06 14:16:58,848 | INFO | Procesando archivo: B2B_05_010157_00000343807_UGRV_0_01.xml
+2026-01-06 14:16:58,848 | INFO | 📑 Nombre de hoja generado: PAQ. T-229896 Hoja 1
+2026-01-06 14:16:58,849 | INFO | Procesando archivo: ONALT_03_010157_00000361554_UGRV_0_01.xml
+2026-01-06 14:16:58,849 | INFO | 📑 Nombre de hoja generado: PAQ. T-229896 Hoja 1
+2026-01-06 14:16:58,849 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-231894
+2026-01-06 14:16:58,849 | INFO | Procesando archivo: UNEAQ_01_010157_00000344033_UGRD_0_01.xml
+2026-01-06 14:16:58,849 | INFO | 📑 Nombre de hoja generado: PAQ. T-231894 Hoja 1
+2026-01-06 14:16:58,849 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-229433
+2026-01-06 14:16:58,849 | INFO | Procesando archivo: UNEAS_01_010157_00000362615_MSTR_0_02.xml
+2026-01-06 14:16:58,849 | INFO | 📑 Nombre de hoja generado: PAQ. T-229433 Hoja 1
+2026-01-06 14:16:58,850 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-229434
+2026-01-06 14:16:58,850 | INFO | Procesando archivo: ETAC_04_150901_00000356227_UGRD_0_01.xml
+2026-01-06 14:16:58,850 | INFO | 📑 Nombre de hoja generado: PAQ. T-229434 Hoja 1
+2026-01-06 14:16:58,850 | INFO | Procesando archivo: ETAC_04_150901_00000367371_UGRD_0_01.xml
+2026-01-06 14:16:58,850 | INFO | 📑 Nombre de hoja generado: PAQ. T-229434 Hoja 1
+2026-01-06 14:16:58,850 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-231498
+2026-01-06 14:16:58,850 | INFO | Procesando archivo: ETAV_05_150437_00000161689_MSTV_0_01.xml
+2026-01-06 14:16:58,850 | INFO | 📑 Nombre de hoja generado: PAQ. T-231498 Hoja 1
+2026-01-06 14:16:58,851 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-227951
+2026-01-06 14:16:58,851 | INFO | Procesando archivo: ETAC_06_150901_00000298953_UGRD_0_01.xml
+2026-01-06 14:16:58,851 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,851 | INFO | Procesando archivo: ETAC_06_150901_00000308221_UGRD_0_01.xml
+2026-01-06 14:16:58,851 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,851 | INFO | Procesando archivo: ETAC_06_150901_00000322438_UGRD_0_01.xml
+2026-01-06 14:16:58,851 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,852 | INFO | Procesando archivo: ETAC_06_150901_00000327142_UGRD_0_01.xml
+2026-01-06 14:16:58,852 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,852 | INFO | Procesando archivo: ETAC_06_150901_00000332600_UGRD_0_01.xml
+2026-01-06 14:16:58,852 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,852 | INFO | Procesando archivo: ETAC_06_150901_00000337059_UGRD_0_01.xml
+2026-01-06 14:16:58,852 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,852 | INFO | Procesando archivo: ETAC_06_150901_00000338292_UGRD_0_01.xml
+2026-01-06 14:16:58,852 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,852 | INFO | Procesando archivo: ETAC_06_150901_00000338464_UGRD_0_01.xml
+2026-01-06 14:16:58,852 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,852 | INFO | Procesando archivo: ETAC_06_150901_00000338491_UGRD_0_01.xml
+2026-01-06 14:16:58,852 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,853 | INFO | Procesando archivo: ETAC_06_150901_00000338615_UGRD_0_01.xml
+2026-01-06 14:16:58,853 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,853 | INFO | Procesando archivo: ETAC_06_150901_00000338707_UGRD_0_01.xml
+2026-01-06 14:16:58,853 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,853 | INFO | Procesando archivo: ETAC_06_150901_00000339753_UGRD_0_01.xml
+2026-01-06 14:16:58,853 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,853 | INFO | Procesando archivo: ETAC_06_150901_00000339861_UGRD_0_01.xml
+2026-01-06 14:16:58,853 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,853 | INFO | Procesando archivo: ETAC_06_150901_00000341201_UGRD_0_01.xml
+2026-01-06 14:16:58,853 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,854 | INFO | Procesando archivo: ETAC_06_150901_00000341664_UGRD_0_01.xml
+2026-01-06 14:16:58,854 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,854 | INFO | Procesando archivo: ETAC_06_150901_00000342058_UGRD_1_01.xml
+2026-01-06 14:16:58,854 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,854 | INFO | Procesando archivo: ETAC_06_150901_00000342296_UGRD_0_01.xml
+2026-01-06 14:16:58,854 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,854 | INFO | Procesando archivo: ETAC_06_150901_00000342306_UGRD_0_01.xml
+2026-01-06 14:16:58,854 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,854 | INFO | Procesando archivo: ETAC_06_150901_00000342378_UGRD_0_01.xml
+2026-01-06 14:16:58,854 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,854 | INFO | Procesando archivo: ETAC_06_150901_00000342919_UGRD_0_01.xml
+2026-01-06 14:16:58,854 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,855 | INFO | Procesando archivo: ETAC_06_150901_00000343154_UGRD_0_01.xml
+2026-01-06 14:16:58,855 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,855 | INFO | Procesando archivo: ETAC_06_150901_00000343239_UGRD_0_01.xml
+2026-01-06 14:16:58,855 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,855 | INFO | Procesando archivo: ETAC_06_150901_00000344105_UGRD_0_01.xml
+2026-01-06 14:16:58,855 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,855 | INFO | Procesando archivo: ETAC_06_150901_00000344560_UGRD_0_01.xml
+2026-01-06 14:16:58,855 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,855 | INFO | Procesando archivo: ETAC_06_150901_00000344759_UGRD_0_01.xml
+2026-01-06 14:16:58,855 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,855 | INFO | Procesando archivo: ETAC_06_150901_00000344899_UGRD_1_01.xml
+2026-01-06 14:16:58,855 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,856 | INFO | Procesando archivo: ETAC_06_150901_00000344952_UGRD_0_01.xml
+2026-01-06 14:16:58,856 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 1
+2026-01-06 14:16:58,856 | INFO | Procesando archivo: ETAC_06_150901_00000345416_UGRD_0_01.xml
+2026-01-06 14:16:58,856 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 2
+2026-01-06 14:16:58,856 | INFO | Procesando archivo: ETAC_06_150901_00000345441_UGRD_0_01.xml
+2026-01-06 14:16:58,856 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 2
+2026-01-06 14:16:58,856 | INFO | Procesando archivo: ETAC_06_150901_00000346145_UGRD_0_01.xml
+2026-01-06 14:16:58,856 | INFO | 📑 Nombre de hoja generado: PAQ. T-227951 Hoja 2
+2026-01-06 14:16:58,856 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-230575
+2026-01-06 14:16:58,856 | INFO | Procesando archivo: UNEAS_01_010157_00000363802_MSTR_0_02.xml
+2026-01-06 14:16:58,856 | INFO | 📑 Nombre de hoja generado: PAQ. T-230575 Hoja 1
+2026-01-06 14:16:58,857 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-235455
+2026-01-06 14:16:58,857 | INFO | Procesando archivo: UTNSL_03_010161_00000354761_UGRD_0_01.xml
+2026-01-06 14:16:58,857 | INFO | 📑 Nombre de hoja generado: PAQ. T-235455 Hoja 1
+2026-01-06 14:16:58,857 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-235031
+2026-01-06 14:16:58,857 | INFO | Procesando archivo: ONALT_02_010162_00000335705_UGRV_0_01.xml
+2026-01-06 14:16:58,857 | INFO | 📑 Nombre de hoja generado: PAQ. T-235031 Hoja 1
+2026-01-06 14:16:58,857 | INFO | Procesando carpeta: /Users/juanantoniotorres/Downloads/XML LIBRO CONTROL FOLIOS DICIEMBRE/PAQ. T-227197
+2026-01-06 14:16:58,858 | INFO | Procesando archivo: ONALT_02_010162_00000307586_UGRV_0_01.xml
+2026-01-06 14:16:58,858 | INFO | 📑 Nombre de hoja generado: PAQ. T-227197 Hoja 1
+2026-01-06 14:16:58,858 | INFO | Procesando archivo: ONALT_02_010162_00000321450_UGRV_0_02.xml
+2026-01-06 14:16:58,858 | INFO | 📑 Nombre de hoja generado: PAQ. T-227197 Hoja 1
+2026-01-06 14:16:58,858 | INFO | Procesando archivo: ONALT_02_010162_00000340451_UGRV_0_01.xml
+2026-01-06 14:16:58,858 | INFO | 📑 Nombre de hoja generado: PAQ. T-227197 Hoja 1
+2026-01-06 14:16:58,868 | INFO | Hoja 'PAQ. T-231879 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,871 | INFO | Hoja 'PAQ. T-218399 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,872 | INFO | Hoja 'PAQ. T-211214 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,874 | INFO | Hoja 'PAQ. T-221647 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,876 | INFO | Hoja 'PAQ. T-216038 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,878 | INFO | Hoja 'PAQ. T-221649 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,880 | INFO | Hoja 'PAQ. T-234196 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,882 | INFO | Hoja 'PAQ. T-235487 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,884 | INFO | Hoja 'PAQ. T-235017 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,886 | INFO | Hoja 'PAQ. T-231488 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,888 | INFO | Hoja 'PAQ. T-227189 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,890 | INFO | Hoja 'PAQ. T-235021 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,891 | INFO | Hoja 'PAQ. T-235026 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,893 | INFO | Hoja 'PAQ. T-218930 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,895 | INFO | Hoja 'PAQ. T-229446 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,897 | INFO | Hoja 'PAQ. T-235019 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,899 | INFO | Hoja 'PAQ. T-234197 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,901 | INFO | Hoja 'PAQ. T-234199 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,903 | INFO | Hoja 'PAQ. T-233383 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,905 | INFO | Hoja 'PAQ. T-233384 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,906 | INFO | Hoja 'PAQ. T-226292 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,908 | INFO | Hoja 'PAQ. T-226266 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,910 | INFO | Hoja 'PAQ. T-235027 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,912 | INFO | Hoja 'PAQ. T-235488 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,914 | INFO | Hoja 'PAQ. T-229440 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,916 | INFO | Hoja 'PAQ. T-223341 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,918 | INFO | Hoja 'PAQ. T-235486 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,920 | INFO | Hoja 'PAQ. T-235029 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,922 | INFO | Hoja 'PAQ. T-225334 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,924 | INFO | Hoja 'PAQ. T-220612 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,925 | INFO | Hoja 'PAQ. T-214647 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,928 | INFO | Hoja 'PAQ. T-236348 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,929 | INFO | Hoja 'PAQ. T-229900 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,931 | INFO | Hoja 'PAQ. T-228687 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,933 | INFO | Hoja 'PAQ. T-232779 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,935 | INFO | Hoja 'PAQ. T-220614 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,937 | INFO | Hoja 'PAQ. T-220067 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,939 | INFO | Hoja 'PAQ. T-229914 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,941 | INFO | Hoja 'PAQ. T-217680 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,943 | INFO | Hoja 'PAQ. T-236352 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,945 | INFO | Hoja 'PAQ. T-216132 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,947 | INFO | Hoja 'PAQ. T-213229 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,957 | INFO | Hoja 'PAQ. T-228695 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,959 | INFO | Hoja 'PAQ. T-220068 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,961 | INFO | Hoja 'PAQ. T-220608 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,963 | INFO | Hoja 'PAQ. T-213226 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,965 | INFO | Hoja 'PAQ. T-235457 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,967 | INFO | Hoja 'PAQ. T-230579 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,969 | INFO | Hoja 'PAQ. T-227195 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,971 | INFO | Hoja 'PAQ. T-231456 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,973 | INFO | Hoja 'PAQ. T-225263 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,975 | INFO | Hoja 'PAQ. T-230577 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,977 | INFO | Hoja 'PAQ. T-229436 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,978 | INFO | Hoja 'PAQ. T-237737 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,980 | INFO | Hoja 'PAQ. T-223939 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,982 | INFO | Hoja 'PAQ. T-231898 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,984 | INFO | Hoja 'PAQ. T-233363 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,986 | INFO | Hoja 'PAQ. T-229438 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,988 | INFO | Hoja 'PAQ. T-227952 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,990 | INFO | Hoja 'PAQ. T-237753 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,992 | INFO | Hoja 'PAQ. T-230576 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,994 | INFO | Hoja 'PAQ. T-222047 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,996 | INFO | Hoja 'PAQ. T-226289 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:58,998 | INFO | Hoja 'PAQ. T-238143 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,000 | INFO | Hoja 'PAQ. T-231461 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,002 | INFO | Hoja 'PAQ. T-235035 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,003 | INFO | Hoja 'PAQ. T-235456 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,006 | INFO | Hoja 'PAQ. T-227193 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,007 | INFO | Hoja 'PAQ. T-231492 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,009 | INFO | Hoja 'PAQ. T-226287 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,011 | INFO | Hoja 'PAQ. T-229439 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,013 | INFO | Hoja 'PAQ. T-231435 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,015 | INFO | Hoja 'PAQ. T-231899 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,017 | INFO | Hoja 'PAQ. T-222680 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,019 | INFO | Hoja 'PAQ. T-222680 Hoja 2' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,021 | INFO | Hoja 'PAQ. T-215468 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,023 | INFO | Hoja 'PAQ. T-229430 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,025 | INFO | Hoja 'PAQ. T-235484 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,027 | INFO | Hoja 'PAQ. T-235483 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,029 | INFO | Hoja 'PAQ. T-223981 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,031 | INFO | Hoja 'PAQ. T-216854 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,033 | INFO | Hoja 'PAQ. T-226297 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,035 | INFO | Hoja 'PAQ. T-235022 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,037 | INFO | Hoja 'PAQ. T-229442 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,039 | INFO | Hoja 'PAQ. T-222663 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,041 | INFO | Hoja 'PAQ. T-234195 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,043 | INFO | Hoja 'PAQ. T-231873 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,045 | INFO | Hoja 'PAQ. T-233388 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,046 | INFO | Hoja 'PAQ. T-231470 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,048 | INFO | Hoja 'PAQ. T-227944 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,050 | INFO | Hoja 'PAQ. T-234194 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,052 | INFO | Hoja 'PAQ. T-215470 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,054 | INFO | Hoja 'PAQ. T-220082 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,056 | INFO | Hoja 'PAQ. T-214627 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
+2026-01-06 14:16:59,058 | INFO | Hoja 'PAQ. T-232781 Hoja 1' creada con fecha, hoja y firmas en posiciones exactas.
